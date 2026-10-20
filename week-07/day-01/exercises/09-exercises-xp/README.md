@@ -212,3 +212,7 @@ Your page should display:
 - styled components
 
 - a list generated using `map()`
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

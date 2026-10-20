@@ -41,3 +41,7 @@ const pet = new Flamingo();
 | Duration (approx) |
 | --- |
 | 20 minutes |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

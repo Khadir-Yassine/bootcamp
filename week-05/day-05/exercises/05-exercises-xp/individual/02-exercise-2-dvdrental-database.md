@@ -79,3 +79,5 @@ We will use the newly installed dvdrental database.
 | Duration (approx) |
 | --- |
 | > 1h30 |
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

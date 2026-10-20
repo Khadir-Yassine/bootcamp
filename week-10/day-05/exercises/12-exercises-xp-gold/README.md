@@ -77,3 +77,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   
   1. Accepts an instance of `BankAccount` or `MinimumBalanceAccount`.
   2. The method will start a loop giving the user the option to deposit, withdraw or exit.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

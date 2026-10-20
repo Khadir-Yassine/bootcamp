@@ -36,3 +36,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to github
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

@@ -32,3 +32,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Use the `Garage` component inside the `Car` component and pass the size ‘small’. The `Garage` component should render `Who lives in my <size> Garage?`
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

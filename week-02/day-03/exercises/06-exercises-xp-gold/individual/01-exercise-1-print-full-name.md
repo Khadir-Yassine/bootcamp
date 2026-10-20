@@ -21,3 +21,7 @@ printFullName({first: 'Elie', last:'Schoppik'})
 The output of the `printFullName` function should be the exact same as the `displayStudentInfo` function. (Exercise XP)
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

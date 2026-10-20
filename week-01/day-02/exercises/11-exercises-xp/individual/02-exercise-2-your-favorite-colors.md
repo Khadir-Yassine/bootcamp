@@ -15,3 +15,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 *Hint* : create an array of suffixes to do the Bonus
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

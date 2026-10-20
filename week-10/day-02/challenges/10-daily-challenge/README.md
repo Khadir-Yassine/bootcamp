@@ -64,3 +64,7 @@ Final strings won’t include words with double letters (e.g. “passing”, “
 | Duration (approx) | Difficulty |
 | --- | --- |
 | 1 hour | ⭐ |
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

@@ -101,3 +101,7 @@ const getFullBlogFeed = async () => {
 ### **Final Course Reflection**
 
 You have successfully transitioned from basic JSON objects to a fully relational, validated, and automated data system. You now have the skills to build the backend for everything from a simple Todo list to a complex social media engine.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

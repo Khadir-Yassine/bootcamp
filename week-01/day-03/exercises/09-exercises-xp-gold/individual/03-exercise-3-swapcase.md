@@ -16,3 +16,6 @@ the output should be 'tHE qUICK bROWN fOX'.
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

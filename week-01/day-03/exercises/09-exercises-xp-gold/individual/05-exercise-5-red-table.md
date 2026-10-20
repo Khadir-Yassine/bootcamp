@@ -71,3 +71,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 1. Copy the code above and write some Javascript code to color all diagonal table cells in red.
 
 ---
+
+
+[Worked solutions](../solutions.md)

@@ -14,3 +14,7 @@ Study how messages are interpreted, including non-verbal signals and communicati
 ## Quizzes
 
 - [Quiz 2 – Communication Fundamentals](quizzes/05-quiz-2-communication-fundamentals/README.md)
+
+## Worked solutions
+
+- [02-lesson-2-2-non-verbal-communication](lessons/02-lesson-2-2-non-verbal-communication/solutions.md)

@@ -23,3 +23,7 @@ const promise3 = new Promise((resolve, reject) => {
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

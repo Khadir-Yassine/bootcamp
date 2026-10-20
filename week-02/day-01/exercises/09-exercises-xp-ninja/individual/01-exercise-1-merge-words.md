@@ -36,3 +36,7 @@ function mergeWords(string) {
 Don’t forget to push to Github
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

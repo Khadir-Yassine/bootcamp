@@ -392,3 +392,7 @@ To add an element to a set, use `set.add(element)`
 
 # the set named this_set is unordered
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

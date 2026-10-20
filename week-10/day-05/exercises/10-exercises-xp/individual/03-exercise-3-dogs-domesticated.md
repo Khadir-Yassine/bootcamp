@@ -25,3 +25,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
   - “`dog_name` plays dead”.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

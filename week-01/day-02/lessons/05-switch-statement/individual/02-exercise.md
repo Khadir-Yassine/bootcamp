@@ -27,3 +27,6 @@ switch (a) {
     alert('The result is strange. Really.');
 }
 ```
+
+
+[Worked solutions](../solutions.md)

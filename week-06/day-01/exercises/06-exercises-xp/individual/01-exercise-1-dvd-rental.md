@@ -32,3 +32,5 @@ It should have the following columns:
 7. Delete a film that has a review from the *new_film* table, what happens to the **customer_review** table?
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -36,3 +36,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   4. All customers whose last name is ‘Smith’ (What will be your outcome?).
   5. All customers whose last name is ‘Jones’.
   6. All customers whose firstname is **not** ‘Scott’.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

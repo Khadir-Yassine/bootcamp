@@ -116,3 +116,7 @@ Example
 Which animal should we add to the zoo --> Giraffe
 x.add_animal(Giraffe)
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

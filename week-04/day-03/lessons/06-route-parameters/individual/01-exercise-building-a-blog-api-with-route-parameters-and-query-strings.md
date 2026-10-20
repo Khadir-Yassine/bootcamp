@@ -59,3 +59,5 @@ module.exports = posts;
 - `http://localhost:3000/api/posts/2` to see details of the post with ID 2.
 
 - `http://localhost:3000/api/search?title=express` to filter posts by title.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

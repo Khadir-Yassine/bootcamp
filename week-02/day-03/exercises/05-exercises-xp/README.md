@@ -171,3 +171,7 @@ console.log(object4.number)
 
 3. Create a `farmerCow` object that is an instance of the class `Mammal`. The object accepts a name, a type and a color and calls the sound method that “moos” her information.
 For example: `Moooo I'm a cow, named Lily and I'm brown and white`
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

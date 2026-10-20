@@ -4,12 +4,12 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **What you will learn :**
 
 1. DOM Selectors
-  
+
   - getAttribute
   - setAttribute
 
 2. Changing Styles
-  
+
   - style.{property}
   - className
   - classList
@@ -225,3 +225,6 @@ Syntax : element.className = 'newClassName';
 ```
 
 Modify the style of the paragraph text (such as fontSize, fontFamily, color, etc. )through javascript code.
+
+
+[Worked solutions](solutions.md)

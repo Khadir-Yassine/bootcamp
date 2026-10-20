@@ -72,3 +72,7 @@ This table, is a junction table for a Many to Many relationship with the *Book* 
   - Select the name of the student and the title of the borrowed books
   - Select the average age of the children, that borrowed the book Alice in Wonderland
   - Delete a student from the Student table, what happened in the junction table ?
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

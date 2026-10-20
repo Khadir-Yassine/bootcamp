@@ -178,3 +178,7 @@ In the table actors, write the following commands:
 - Rename the `age` column by `birthdate`
 
 - Delete one actor and return it
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

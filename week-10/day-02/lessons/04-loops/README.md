@@ -364,3 +364,7 @@ while current <= 10:
 
 // Here the incrementation is after the if statement, therefore as soon as the variable `current` reachers the number 4, the program enters into an infinite loop. 
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

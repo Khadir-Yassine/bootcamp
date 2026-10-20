@@ -18,3 +18,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 2. The user clicks "Add Order" twice.
 
 3. The user clicks "Mark as Served" on the first order.
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

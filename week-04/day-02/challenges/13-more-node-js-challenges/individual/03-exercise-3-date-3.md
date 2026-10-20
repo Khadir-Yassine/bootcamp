@@ -14,3 +14,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. **Bonus** : Try to find a node module to get the date of the holidays instead of hardcoding it.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

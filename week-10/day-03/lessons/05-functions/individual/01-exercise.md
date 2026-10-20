@@ -16,3 +16,7 @@ def calculation(a, b):
 res = calculation(40, 10)
 print(res)
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

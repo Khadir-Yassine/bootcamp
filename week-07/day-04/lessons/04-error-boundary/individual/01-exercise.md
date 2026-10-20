@@ -10,3 +10,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - This method takes two parameters, and will be called with an onClick Event.
 
 - If you try to divide a number by zero throw an Error. It will trigger the ErrorBoundary Component
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/errors.jsx).

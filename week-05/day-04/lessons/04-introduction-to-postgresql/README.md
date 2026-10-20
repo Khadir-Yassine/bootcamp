@@ -264,3 +264,7 @@ You will see that each of the actors has an actor-id even though we didn’t pas
 - Add three more actors, add all of them in one query !
 
 - Retrieve everything from the table actors
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

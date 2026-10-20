@@ -63,3 +63,6 @@ Follow these steps :
 | Duration (approx) | Difficulty |
 | --- | --- |
 | > 1 hour | ⭐ |
+
+
+[Worked solutions](solutions.md)

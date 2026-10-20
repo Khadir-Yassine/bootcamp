@@ -19,3 +19,7 @@ compose(add1, add5)(10)
 Don’t forget to push to Github
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-5).

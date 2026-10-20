@@ -69,3 +69,7 @@ const inventory = [
 | Duration (approx) | Difficulty |
 | --- | --- |
 | > 30 min | ⭐⭐ |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

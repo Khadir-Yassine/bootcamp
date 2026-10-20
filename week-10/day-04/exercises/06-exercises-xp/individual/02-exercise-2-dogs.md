@@ -26,3 +26,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 9. Create an if statement outside of the class to check which dog is bigger. Print the `name` of the bigger dog.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

@@ -320,3 +320,7 @@ By understanding how the module system works, you can write more efficient and m
 **Exercise 2: Basic Module Export and Import**
 
 Do the same as exercise 1 - Basic Module Export and Import using ES6 module syntax
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

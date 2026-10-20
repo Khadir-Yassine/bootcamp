@@ -55,3 +55,7 @@ Notes:
 | Duration (approx) |
 | --- |
 | > 1h30 |
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

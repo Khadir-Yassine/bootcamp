@@ -73,3 +73,7 @@ const emojis = [
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

@@ -7,3 +7,7 @@ Review project ideas that combine Node.js with database-backed application behav
 ## Projects
 
 - [MINI PROJECT IDEAS](projects/01-mini-project-ideas/README.md)
+
+## Worked solutions
+
+- [01-mini-project-ideas](projects/01-mini-project-ideas/solutions.md)

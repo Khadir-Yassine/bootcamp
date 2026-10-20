@@ -116,3 +116,7 @@ I made your avocado sandwich
 I made your egg sandwich
 I made your chicken sandwich
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

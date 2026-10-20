@@ -51,3 +51,5 @@ Continuation of the Day1 Exercise XPGold : *students* table
 1. Find the sum of all the students grades.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

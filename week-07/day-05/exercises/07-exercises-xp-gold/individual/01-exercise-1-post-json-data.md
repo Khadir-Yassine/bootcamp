@@ -26,3 +26,5 @@ You will POST json Data from an form, fetch and console.log the result from your
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day2/Exercises%20XP%20Gold/Exercise%201.jpg)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

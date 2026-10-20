@@ -170,3 +170,7 @@ class Car extends React.Component {
 - Retrieve the data from the form, as soon as the "Submit" button is clicked.
 
 - Change the value of the state attributes, depending on the data fetched
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

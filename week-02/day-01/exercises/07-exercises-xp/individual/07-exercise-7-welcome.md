@@ -16,3 +16,7 @@ John has just signed in to your website and you want to welcome him.
 3. The function should add a div in the nabvar, displaying the name of the user and his profile picture.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-7).

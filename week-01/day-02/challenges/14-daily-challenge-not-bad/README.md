@@ -1,5 +1,8 @@
 # Daily challenge: Not Bad
 
+[Worked solutions](solutions.md) · [Runnable JavaScript](solutions.js)
+
+
 Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **What You will learn :**
 

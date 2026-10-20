@@ -32,3 +32,7 @@ print(b.val)
 print(c.val)
 print(a.filterint(100))
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

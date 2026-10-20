@@ -10,3 +10,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Add three more actors, add all of them in one query !
 
 - Retrieve everything from the table actors
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

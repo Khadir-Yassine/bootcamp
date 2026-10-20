@@ -1,0 +1,1 @@
+const products=require('./products');const findProduct=name=>products.find(p=>p.name.toLowerCase()===name.toLowerCase());console.log(findProduct('Laptop'));console.log(findProduct('Notebook'));console.log(findProduct('Missing')??'Product not found');

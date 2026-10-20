@@ -21,3 +21,7 @@ const newArray = arrayNum.map((num, i) => {
 1. What is the value of *i* ?
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

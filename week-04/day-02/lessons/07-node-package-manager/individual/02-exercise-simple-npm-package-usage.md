@@ -18,3 +18,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 6. Use the `moment` package to display the current date and time.
 
 7. Run `app.js` using Node.js and verify that the current date and time are displayed correctly.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

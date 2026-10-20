@@ -17,3 +17,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   4. Now find the customer’s address, and use UPDATE to change the address to your address (or make one up).
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

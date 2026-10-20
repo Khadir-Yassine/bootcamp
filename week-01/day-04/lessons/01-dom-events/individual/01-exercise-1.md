@@ -25,3 +25,6 @@ In a JS file, write a JavaScript function to add rows to a table. Use the code b
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

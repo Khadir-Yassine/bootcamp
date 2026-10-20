@@ -40,3 +40,7 @@ Example
 Which animal should we add to the zoo --> Giraffe
 x.add_animal(Giraffe)
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-4).

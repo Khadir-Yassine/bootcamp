@@ -24,3 +24,6 @@ Create functions with parameters and return values, then connect JavaScript logi
 
 - [Daily challenge: Planets](challenges/11-daily-challenge-planets/README.md)
 - [Daily Challenge : Words in the stars](challenges/12-daily-challenge-words-in-the-stars/README.md)
+
+
+[Runnable solutions for this week](../SOLUTIONS.md)

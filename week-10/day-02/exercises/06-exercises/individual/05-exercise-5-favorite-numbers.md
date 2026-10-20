@@ -16,3 +16,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 5. Concatenate `my_fav_numbers` and `friend_fav_numbers` to a new variable called `our_fav_numbers`.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-5).

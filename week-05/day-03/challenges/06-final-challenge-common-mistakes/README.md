@@ -82,3 +82,7 @@ In your project’s `README.md` or as comments in your code, justify your choice
 ### **💡 Final Project Reflection**
 
 > **"Data is the most valuable asset of any company."** You are now equipped to build systems that protect that data (Validation/Auth), organize it (Relationships), and serve it at lightning speed (Indexing/Lean).
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

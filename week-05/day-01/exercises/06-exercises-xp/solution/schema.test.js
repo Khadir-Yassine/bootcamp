@@ -1,0 +1,2 @@
+const {test}=require('node:test'),assert=require('node:assert/strict'),Student=require('./models/Student');
+test('student requires name and email and rejects minors',()=>{assert(new Student({age:16}).validateSync().errors.name);assert(new Student({name:'Omar',email:'omar@example.com',age:16}).validateSync().errors.age);assert.equal(new Student({name:'Omar',email:'omar@example.com',age:18}).validateSync(),undefined);});

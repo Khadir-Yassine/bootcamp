@@ -46,3 +46,7 @@ Trim whitespace prior to comparison.
 ## **Submit your Daily Challenge:**
 
 Don’t forget to push to GitHub
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

@@ -59,3 +59,7 @@ class Labrador extends Dog {
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-5).

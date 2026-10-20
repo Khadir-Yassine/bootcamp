@@ -84,3 +84,7 @@ Middleware doesn't just work for `.save()`. You can hook into many different eve
 Imagine a user changes their password. Which middleware would you use to ensure the new password is encrypted before it reaches the database?
 
 *(Answer: A ****Pre-save**** hook!)*
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

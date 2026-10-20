@@ -48,3 +48,7 @@ this.state = {
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

@@ -29,3 +29,7 @@ allTruthy(5, 4, 3, 2, 1, 0) ➞ false
 | Duration (approx) | Difficulty |
 | --- | --- |
 | 30 minutes | ⭐ |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

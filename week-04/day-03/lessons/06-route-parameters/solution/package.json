@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-week-04-day-03-lessons-06-route-parameters-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test --test-isolation=none crud.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,5 +1,8 @@
 # Exercises XP Gold
 
+[Worked solutions](solutions.md) · [Runnable JavaScript](solutions.js)
+
+
 Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **What we will learn:**
 
@@ -47,7 +50,7 @@ Given the object above where the key is the student’s name and the value is th
 
 2. If the name is in the object, console.log the name of the student and the country they come from.
 For example: `"Hi! I'm [name], and I'm from [country]."`
-  
+
   - **Hint**: You don’t need to use a for loop, just look up the statement `if ... in`
 
 3. If the name is not in the object, console.log: `"Hi! I'm a guest."`

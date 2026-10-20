@@ -173,3 +173,7 @@ Using map and filter, try to say hello to everyone who's name is less than or eq
 ### **Conclusion**
 
 This lesson has introduced you to powerful functional programming concepts in Python that facilitate concise and readable code. By mastering lambda, map, reduce, and filter, you enhance your ability to write high-quality Pythonic code that effectively leverages Python’s capabilities for functional programming.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

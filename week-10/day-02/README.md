@@ -22,3 +22,16 @@ Start Python with variables, sequences, lists, sets, tuples, conditionals and lo
 
 - [Daily challenge GOLD](challenges/09-daily-challenge-gold/README.md)
 - [Daily challenge](challenges/10-daily-challenge/README.md)
+
+## Worked solutions
+
+- [Daily challenge GOLD](challenges/09-daily-challenge-gold/solutions.md)
+- [Daily challenge](challenges/10-daily-challenge/solutions.md)
+- [Exercises](exercises/06-exercises/solutions.md)
+- [Exercises XP Ninja](exercises/07-exercises-xp-ninja/solutions.md)
+- [Exercises XP Gold](exercises/08-exercises-xp-gold/solutions.md)
+- [Variables](lessons/01-variables/solutions.md)
+- [Sequences, List, Sets, Tuple](lessons/02-sequences-list-sets-tuple/solutions.md)
+- [Conditionals](lessons/03-conditionals/solutions.md)
+- [Loops](lessons/04-loops/solutions.md)
+- [Get started with Python](lessons/05-get-started-with-python/solutions.md)

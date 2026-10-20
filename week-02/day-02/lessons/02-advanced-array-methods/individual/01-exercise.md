@@ -19,3 +19,7 @@ let newArr = myArr.map((val, i, arr) => {
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

@@ -1,5 +1,8 @@
 # Exercises XP
 
+[Worked solutions](solutions.md) · [Runnable JavaScript](solutions.js)
+
+
 Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **What we will learn:**
 
@@ -32,7 +35,7 @@ const people = ["Greg", "Mary", "Devon", "James"];
 4. Write code that console.logs Mary’s index. *take a look at the *`indexOf` method on Google.
 
 5. Write code to make a copy of the `people` array using the `slice` method.
-  
+
   - The copy should NOT include “Mary” or your name.
   - **Hint**: remember that now the `people` array should look like this `const people = ["Mary", "Devon", "Jason", "Yourname"];`
   - **Hint**: Check out the [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) for the `slice` method

@@ -12,3 +12,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 2. The function should display in the DOM a sentence like `"You will be a <job title> in <geographic location>, and married to <partner's name> with <number of children> kids."`
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-6).

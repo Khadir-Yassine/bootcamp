@@ -48,3 +48,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   ![off](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day3/Exercises%20XP/images/off.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

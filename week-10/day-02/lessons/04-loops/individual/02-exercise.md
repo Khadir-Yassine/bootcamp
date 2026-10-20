@@ -21,3 +21,7 @@ while 1 == 1:
 It will never stop because 1 is always equal to 1. We can also use `while 1:` or `while True:`.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

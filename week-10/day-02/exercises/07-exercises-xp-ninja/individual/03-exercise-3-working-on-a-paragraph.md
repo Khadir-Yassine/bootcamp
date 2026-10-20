@@ -22,3 +22,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 **Bonus:** How many non-whitespace characters it contains.
 **Bonus:** The average amount of words per sentence in the paragraph.
 **Bonus:** the amount of non-unique words in the paragraph.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

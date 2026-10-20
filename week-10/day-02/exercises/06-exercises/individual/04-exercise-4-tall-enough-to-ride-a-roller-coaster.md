@@ -12,3 +12,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. If they are not tall enough print a message that says they need to grow some more to ride.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-4).

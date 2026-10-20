@@ -45,3 +45,7 @@ int(number) * 3
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

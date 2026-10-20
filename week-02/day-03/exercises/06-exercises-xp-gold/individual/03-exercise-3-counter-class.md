@@ -31,3 +31,7 @@ console.log(counterOne.count);
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

@@ -12,3 +12,6 @@ The function should accept two numbers as parameters and return the correct calc
 **Bonus:** Modify your function to use a **ternary operator** to handle cases where the operator is not valid, returning `"Invalid operator"` instead of performing a calculation.
 
 ---
+
+
+[Worked solutions](../solutions.md)

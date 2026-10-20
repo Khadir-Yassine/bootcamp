@@ -20,3 +20,7 @@ Expected output:
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

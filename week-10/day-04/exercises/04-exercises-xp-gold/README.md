@@ -61,3 +61,7 @@ The dishes provided above should be the value of the `menu` attribute.
 2. Create a method called `update_item(name, price, spice, gluten)`. This method checks whether a dish is in the menu, if the dish exists then update it. If not notify the manager that the dish is not in the menu.
 
 3. Create a method called `remove_item(name)`. This method should check if the dish is in the menu, if the dish exists then delete it and print the updated dictionary. If not notify the manager that the dish is not in the menu.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

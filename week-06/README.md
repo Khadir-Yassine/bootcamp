@@ -15,3 +15,5 @@ Study advanced PostgreSQL relationships and data operations, then connect Expres
 | [5](day-05/README.md) | Mini-Project Day | 1 | [Summary](day-05/summary.md) |
 | [6](day-06/README.md) | Remote Learning | 0 | [Summary](day-06/summary.md) |
 | [7](day-07/README.md) | Remote Learning | 0 | [Summary](day-07/summary.md) |
+
+[Worked solutions](SOLUTIONS.md) — runnable code, SQL, and English explanations.

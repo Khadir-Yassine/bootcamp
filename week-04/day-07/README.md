@@ -7,3 +7,7 @@ Explore an additional open-ended set of project ideas. Select a practical scope 
 ## Projects
 
 - [MINI PROJECT IDEAS (OPEN & CREATIVE)](projects/01-mini-project-ideas-open-creative/README.md)
+
+## Worked solutions
+
+- [01-mini-project-ideas-open-creative](projects/01-mini-project-ideas-open-creative/solutions.md)

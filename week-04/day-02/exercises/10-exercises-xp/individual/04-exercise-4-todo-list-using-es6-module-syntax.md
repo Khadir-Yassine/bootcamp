@@ -26,3 +26,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 9. Run `app.js` and verify that the todo list operations are working correctly.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

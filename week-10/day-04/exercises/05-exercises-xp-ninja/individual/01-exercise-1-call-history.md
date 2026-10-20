@@ -24,3 +24,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 6. Create the following methods: `show_outgoing_messages(self)`, `show_incoming_messages(self)`, `show_messages_from(self)`
 
 7. Test your code !!!
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

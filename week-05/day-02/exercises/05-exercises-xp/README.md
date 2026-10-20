@@ -91,3 +91,7 @@ const Student = mongoose.model('Student', studentSchema);
 > 1. Did you register the `User` model before the `Post` model?
 > 
 > 2. Did you use the exact same string in `ref: 'User'` as you did in `mongoose.model('User', ...)`? Case sensitivity matters!
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

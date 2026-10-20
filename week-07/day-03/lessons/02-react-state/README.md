@@ -123,3 +123,7 @@ class Car extends React.Component {
 - In the Actor Component render the state attributes
 
 - Call the Actor component in the App Component
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

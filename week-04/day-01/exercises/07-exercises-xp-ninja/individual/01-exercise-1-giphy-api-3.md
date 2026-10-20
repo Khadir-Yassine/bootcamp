@@ -21,3 +21,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   ![delete](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%205/Day%202/Exercise%20XP%20Ninja/FireShot%20Capture%20176%20-%20Document%20-%20.png)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

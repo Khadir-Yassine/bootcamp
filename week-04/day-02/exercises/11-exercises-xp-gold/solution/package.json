@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp-week-04-day-02-exercises-11-exercises-xp-gold-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js files"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "date-fns": "^4.1.0",
+    "@faker-js/faker": "^9.6.0"
+  }
+}

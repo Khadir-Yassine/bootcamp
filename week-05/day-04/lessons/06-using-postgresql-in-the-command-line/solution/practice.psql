@@ -1,0 +1,9 @@
+\conninfo
+\l
+\dt
+\d actors
+SELECT version();
+SELECT * FROM actors ORDER BY actor_id;
+\h SELECT
+\?
+-- Interactive only: \e opens the editor; \q quits.

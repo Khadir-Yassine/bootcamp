@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-week-04-day-02-challenges-14-daily-challenge-node-js-app-npm-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node challenge.js Yassine"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

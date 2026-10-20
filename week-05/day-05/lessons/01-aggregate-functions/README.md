@@ -231,3 +231,7 @@ In the table actors, write the following commands:
 - Get the actors born after 01/01/1970
 
 - Get the actors which names are `David`, `Morgan` or `Will`
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

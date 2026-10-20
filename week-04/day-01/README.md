@@ -21,3 +21,12 @@ Use Fetch and async/await to structure network operations and handle failures. C
 
 - [Daily Challenge: Gifs](challenges/08-daily-challenge-gifs/README.md)
 - [Daily Challenge : Promise.all()](challenges/09-daily-challenge-promise-all/README.md)
+
+## Worked solutions
+
+- [08-daily-challenge-gifs](challenges/08-daily-challenge-gifs/solutions.md)
+- [09-daily-challenge-promise-all](challenges/09-daily-challenge-promise-all/solutions.md)
+- [05-exercises-xp](exercises/05-exercises-xp/solutions.md)
+- [06-exercises-xp-gold](exercises/06-exercises-xp-gold/solutions.md)
+- [07-exercises-xp-ninja](exercises/07-exercises-xp-ninja/solutions.md)
+- [02-fetch-api](lessons/02-fetch-api/solutions.md)

@@ -26,3 +26,5 @@ In this exercise, you will practice creating a simple HTTP server using Node.js 
 Congratulations! You've successfully created a basic HTTP server using Node.js and the HTTP module. This exercise introduces you to the fundamental concepts of handling HTTP requests and sending responses.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

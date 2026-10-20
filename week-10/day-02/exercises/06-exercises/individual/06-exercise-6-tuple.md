@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Given a tuple which value is integers, is it possible to add more integers to the tuple?
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-6).

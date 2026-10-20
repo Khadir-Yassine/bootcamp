@@ -51,3 +51,7 @@ Don’t forget to push to Github
 | Duration (approx) |
 | --- |
 | 1h30 |
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

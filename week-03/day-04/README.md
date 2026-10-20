@@ -20,3 +20,9 @@ Compare synchronous and asynchronous execution, understand callback nesting, and
 ## Challenges
 
 - [Daily challenge: Play with words](challenges/08-daily-challenge-play-with-words/README.md)
+
+## Worked solutions
+
+- [08-daily-challenge-play-with-words](challenges/08-daily-challenge-play-with-words/solutions.md)
+- [06-exercises-xp](exercises/06-exercises-xp/solutions.md)
+- [07-exercises-xp-gold](exercises/07-exercises-xp-gold/solutions.md)

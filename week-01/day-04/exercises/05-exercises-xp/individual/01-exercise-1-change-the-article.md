@@ -39,3 +39,6 @@ Copy the code below, into a structured HTML file:
 7. **BONUS** : When you hover on the 2nd paragraph, it should fade out (Check out “fade css animation” on Google)
 
 ---
+
+
+[Worked solutions](../solutions.md)

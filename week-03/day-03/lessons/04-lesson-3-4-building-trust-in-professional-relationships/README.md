@@ -45,3 +45,7 @@ Ask yourself:
 - Do people feel safe speaking honestly with me?
 
 - How do I react when I receive feedback?
+
+## Worked solutions
+
+[Read the worked example](solutions.md).

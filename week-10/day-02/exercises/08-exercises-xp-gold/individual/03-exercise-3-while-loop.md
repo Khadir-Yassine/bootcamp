@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Write a while loop that will continuously ask the user for their `name`, unless the input is equal to your name.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

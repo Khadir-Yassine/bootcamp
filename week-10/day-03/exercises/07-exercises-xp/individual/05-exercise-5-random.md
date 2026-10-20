@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Compare the two numbers, if it’s the same number, display a `success message`, otherwise show a `fail message` and `display both numbers`.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-5).

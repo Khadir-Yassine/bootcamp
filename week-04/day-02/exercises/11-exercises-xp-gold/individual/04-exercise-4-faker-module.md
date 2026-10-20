@@ -16,3 +16,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 4. **Bonus** : Find a node module that allows to prompt the user for his name, address street and country in order to add this information into the `users` array.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

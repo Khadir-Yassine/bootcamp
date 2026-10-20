@@ -147,3 +147,7 @@ Computer.description(dell_computer, "Mark")
 # IS THE SAME AS:
 dell_computer.description("Mark")
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

@@ -13,3 +13,6 @@ D
 Set
 
 > Only the currently visible question and instructions are exported. Later questions require answering the quiz; no answers were selected.
+
+
+[Worked solutions](solutions.md)

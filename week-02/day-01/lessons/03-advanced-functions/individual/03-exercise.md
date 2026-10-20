@@ -15,3 +15,7 @@ const h = x => f(g(x));
 
 h(20); //=> 42
 ```
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

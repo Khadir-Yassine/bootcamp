@@ -78,3 +78,7 @@ Then my output would show something like this:
 Total throws: 8
 Average throws to reach doubles: 2.67.
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

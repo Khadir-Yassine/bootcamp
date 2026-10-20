@@ -20,3 +20,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 7. Run `app.js` and see if the sum is calculated correctly.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

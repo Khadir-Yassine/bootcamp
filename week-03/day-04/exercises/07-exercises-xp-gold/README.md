@@ -65,3 +65,7 @@ Don’t forget to push to github
 ---
 
 One Last Thing: **Good luck!**
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

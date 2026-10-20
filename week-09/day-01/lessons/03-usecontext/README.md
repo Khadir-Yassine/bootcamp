@@ -326,3 +326,7 @@ React `useContext` is a powerful tool for managing state in your applications, b
 In this guide, you’ve learned the fundamentals of using `useContext` for state management, including how to create and provide contexts, as well as how to consume them in your components. You’ve also explored advanced techniques such as nested contexts, dynamic context values, and using reducers with context.
 
 With the knowledge and exercises provided here, you are well-equipped to master state management in React using `useContext`. Remember to apply these concepts to real-world projects and continue exploring the rich ecosystem of React libraries and tools to enhance your state management capabilities.
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

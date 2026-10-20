@@ -18,3 +18,7 @@ The greatest number is: 87
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-5).

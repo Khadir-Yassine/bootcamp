@@ -278,3 +278,7 @@ In this exercise, you will create your first API using Node.js and Express. This
 7. Open your web browser or use a tool like `curl` to make a GET request to `http://localhost:3000/api/greetings`. You should see the JSON response with the greeting message.
 
 This exercise helps you get hands-on experience with building a basic Express API, defining routes, and responding to HTTP requests. It's a great starting point for learning more about the power of Express and creating more complex APIs in the future.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

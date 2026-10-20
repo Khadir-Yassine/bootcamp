@@ -150,3 +150,6 @@ The function should accept two numbers as parameters and return the correct calc
 - [Arrow function expressions and rest parameter](https://levelup.gitconnected.com/how-to-accept-any-number-of-arguments-in-a-javascript-arrow-function-ed9ba66ed53f)
 
 - [Video Synchronous and Asynchronous Javascript](https://www.youtube.com/watch?v=Q-Zmc0E0GYY)
+
+
+[Worked solutions](solutions.md)

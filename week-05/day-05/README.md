@@ -20,3 +20,13 @@ Use aggregate functions, HAVING, UNION, foreign keys and joins to answer questio
 ## Challenges
 
 - [Daily challenge - SQL Puzzle](challenges/08-daily-challenge-sql-puzzle/README.md)
+
+## Worked solutions
+
+- [08-daily-challenge-sql-puzzle](challenges/08-daily-challenge-sql-puzzle/solutions.md)
+- [05-exercises-xp](exercises/05-exercises-xp/solutions.md)
+- [06-exercise-xp-gold](exercises/06-exercise-xp-gold/solutions.md)
+- [07-exercises-xp-ninja](exercises/07-exercises-xp-ninja/solutions.md)
+- [01-aggregate-functions](lessons/01-aggregate-functions/solutions.md)
+- [03-foreign-key-inner-join](lessons/03-foreign-key-inner-join/solutions.md)
+- [04-postgresql-joins](lessons/04-postgresql-joins/solutions.md)

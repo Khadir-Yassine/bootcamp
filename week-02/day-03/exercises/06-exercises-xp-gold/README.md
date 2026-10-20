@@ -86,3 +86,7 @@ console.log(counterOne.count);
 | Duration (approx) |
 | --- |
 | 1 hour |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

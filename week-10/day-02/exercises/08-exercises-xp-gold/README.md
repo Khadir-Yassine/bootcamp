@@ -98,3 +98,7 @@ The greatest number is: 87
 
 **Bonus:** use a loop that allows the user to keep guessing until they want to quit.
 **Bonus 2:** on exiting the loop, tally up and display total games won and lost.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

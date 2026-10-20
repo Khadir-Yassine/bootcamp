@@ -82,3 +82,5 @@ this.state = {
 3. Import the `PostList` Class Component and the `UsersList` Class Component to the `App.js` file.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

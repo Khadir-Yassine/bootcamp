@@ -18,3 +18,5 @@ For the following questions, you have to fetch the **first_names, last_names and
 2. Fetch the details of the **youngest** student.
 
 3. Fetch three students skipping the first two students.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -22,3 +22,11 @@ Study table relationships, foreign-key referential actions, import/export and us
 
 - [Daily challenge: Tables Relationships](challenges/09-daily-challenge-tables-relationships/README.md)
 - [Daily Challenge: Items and Orders](challenges/10-daily-challenge-items-and-orders/README.md)
+
+## Worked solutions
+
+- [09-daily-challenge-tables-relationships](challenges/09-daily-challenge-tables-relationships/solutions.md)
+- [10-daily-challenge-items-and-orders](challenges/10-daily-challenge-items-and-orders/solutions.md)
+- [06-exercises-xp](exercises/06-exercises-xp/solutions.md)
+- [07-exercises-xp-gold](exercises/07-exercises-xp-gold/solutions.md)
+- [08-exercise-xp-ninja](exercises/08-exercise-xp-ninja/solutions.md)

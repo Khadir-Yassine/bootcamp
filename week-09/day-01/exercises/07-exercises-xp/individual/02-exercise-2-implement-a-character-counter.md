@@ -26,3 +26,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Attach an event listener to the text input’s `input` event to listen for changes in the input.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/hooks.jsx).

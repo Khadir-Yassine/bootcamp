@@ -23,3 +23,14 @@ Introduce relational database concepts and PostgreSQL through pgAdmin and the co
 ## Challenges
 
 - [Daily Challenge: Actors](challenges/11-daily-challenge-actors/README.md)
+
+## Worked solutions
+
+- [11-daily-challenge-actors](challenges/11-daily-challenge-actors/solutions.md)
+- [08-exercises-xp](exercises/08-exercises-xp/solutions.md)
+- [09-exercise-xp](exercises/09-exercise-xp/solutions.md)
+- [10-exercises-xp-gold](exercises/10-exercises-xp-gold/solutions.md)
+- [04-introduction-to-postgresql](lessons/04-introduction-to-postgresql/solutions.md)
+- [05-postgresql-fundamentals](lessons/05-postgresql-fundamentals/solutions.md)
+- [06-using-postgresql-in-the-command-line](lessons/06-using-postgresql-in-the-command-line/solutions.md)
+- [07-update-delete-alter](lessons/07-update-delete-alter/solutions.md)

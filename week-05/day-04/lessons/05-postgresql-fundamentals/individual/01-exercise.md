@@ -14,3 +14,5 @@ Use the table actors to retrieve :
 - The actors that have the letter 'e' in their first_name
 
 - The actors that got at least 5 oscars
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

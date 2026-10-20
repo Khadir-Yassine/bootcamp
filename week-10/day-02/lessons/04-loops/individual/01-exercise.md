@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Accept a number from the user and print its multiplication table
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

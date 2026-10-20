@@ -58,3 +58,7 @@ Here is the data:
   8. Fetch the students whose id’s are equal to 1 **AND** 3 .
 
 4. Fetch the students whose birth_dates are **equal to or come after** 1/01/2000. (show all their info).
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

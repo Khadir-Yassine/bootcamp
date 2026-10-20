@@ -19,3 +19,7 @@ displayStudentInfo({first: 'Elie', last:'Schoppik'});
 `//output : 'Your full name is Elie Schoppik'`
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

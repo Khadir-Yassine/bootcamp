@@ -207,3 +207,7 @@ try:
 except AssertionError:
     print("Error: Those are not equals")
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

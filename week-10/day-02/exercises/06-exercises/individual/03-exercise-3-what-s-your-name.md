@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Write code that asks the user for their `name` and determines whether or not you have the same name, print out a funny message based on the outcome.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

@@ -16,7 +16,7 @@ You only have to work with a JS file.
 4. Finally append each div to the `<section>` in the HTML (presented below).
 
 5. **Bonus:** Do the same process to create the moons.
-  
+
   - Be careful, each planet has a certain amount of moons. How should you display them?
   - Should you still use an array for the planets ? Or an array of objects ?
 
@@ -66,3 +66,6 @@ You only have to work with a JS file.
 | Duration (approx) | Difficulty |
 | --- | --- |
 | > 1h15 | ⭐ |
+
+
+[Worked solutions](solutions.md)

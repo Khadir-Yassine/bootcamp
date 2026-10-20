@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Repeat the Question</title>
+<body><h1>Repeat the Question</h1><button id="start">Enter a number</button><pre id="output"></pre>
+<script src="solutions.js"></script><script>
+document.querySelector('#start').addEventListener('click', () => {
+ const lines=[];const result=askNumberAtLeastTen(message=>window.prompt(message),line=>lines.push(line));
+ lines.push(result===null?'Cancelled.':`Accepted: ${result}`);document.querySelector('#output').textContent=lines.join('\n');
+});</script></body></html>

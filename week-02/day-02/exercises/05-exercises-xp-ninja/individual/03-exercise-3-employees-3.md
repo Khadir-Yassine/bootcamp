@@ -24,3 +24,7 @@ Example: `{ 'Bradley Bouley': 'Full Stack Resident' }`
 **Hint**: Step one, create an empty object.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

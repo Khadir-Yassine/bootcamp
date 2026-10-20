@@ -97,3 +97,6 @@ function myStopFunction() {
 ### **Using the timer functions to create animations**
 
 ### [**timer functions to create animations - Codepen Here**](https://codepen.io/avnermaman/pen/RwPyyEj)
+
+
+[Worked solutions](solutions.md)

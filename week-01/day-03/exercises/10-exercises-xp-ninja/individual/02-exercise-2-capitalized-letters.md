@@ -10,7 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 1. Create a function that takes a string as an argument.
 
 2. Have the function return:
-  
+
   1. The string but all letters in even indexes should be capitalized.
   2. The string but all letters in odd indexes should be capitalized.
 
@@ -27,3 +27,6 @@ capitalize("abcdef") will return ['AbCdEf', 'aBcDeF']
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

@@ -98,3 +98,6 @@ The `<div id="animate">` should move `1px` to the right every milisecond, until 
 *Hint* : check out the demonstration in the Course Noted named *JS Functions*
 
 ![Exercise2](https://github.com/devtlv/studentsGitHub/blob/master/Images%20cours%20%C3%A0%20h%C3%A9berger%20-%2006.03.2024/Week%206%20-%20Javascript%20&%20DOM/W6D2/168036336-8580c062-5450-46b6-b738-91243276f7b5.gif?raw=true)
+
+
+[Worked solutions](solutions.md)

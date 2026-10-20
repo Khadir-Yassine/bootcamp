@@ -55,3 +55,7 @@ http://localhost:3000/?firstName=John&lastName=Doe&age=25&gender=male&destinatio
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

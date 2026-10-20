@@ -422,3 +422,7 @@ True or False
 ## Keep in mind
 
 Each lesson builds on what you learned before. This helps you learn step by step and gives you a good basic understanding of Python programming by the end of the day.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

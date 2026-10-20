@@ -598,3 +598,7 @@ By delving into these core modules, you’ve established a solid foundation for 
 7. Run `node write-file.js` to write content to the file.
 
 8. Run `node read-file.js` to read and display the content from the file.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

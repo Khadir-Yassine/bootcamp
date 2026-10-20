@@ -42,3 +42,5 @@ In this exercise, you’ll build a basic CRUD (Create, Read, Update, Delete) API
 4. Print a message in the console to indicate that the data has been successfully retrieved and sent as a response.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -92,3 +92,7 @@ We will use the newly installed dvdrental database.
 | Duration (approx) |
 | --- |
 | > 1h30 |
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

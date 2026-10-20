@@ -20,3 +20,12 @@ Work with object methods, destructuring, copying, merging, classes and dates. Di
 ## Challenges
 
 - [Daily challenge : Creating Objects](challenges/08-daily-challenge-creating-objects/README.md)
+
+## Worked solutions
+
+- [08-daily-challenge-creating-objects](challenges/08-daily-challenge-creating-objects/solutions.md)
+- [05-exercises-xp](exercises/05-exercises-xp/solutions.md)
+- [06-exercises-xp-gold](exercises/06-exercises-xp-gold/solutions.md)
+- [07-exercises-xp-ninja](exercises/07-exercises-xp-ninja/solutions.md)
+- [01-advanced-objects](lessons/01-advanced-objects/solutions.md)
+- [03-object-and-classes](lessons/03-object-and-classes/solutions.md)

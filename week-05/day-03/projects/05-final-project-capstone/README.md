@@ -90,3 +90,7 @@ Once you have defined these models, try to write a single "Purchase" script that
 2. Creates an Order.
 
 3. **Decrements** the Product `stock` using `findByIdAndUpdate` with the `$inc` operator.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

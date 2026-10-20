@@ -25,3 +25,17 @@ Study inheritance, encapsulation, polymorphism, class/static methods, properties
 ## Challenges
 
 - [Daily Challenge: Pagination](challenges/13-daily-challenge-pagination/README.md)
+
+## Worked solutions
+
+- [Daily Challenge: Pagination](challenges/13-daily-challenge-pagination/solutions.md)
+- [Exercises XP](exercises/10-exercises-xp/solutions.md)
+- [Exercises XP Ninja](exercises/11-exercises-xp-ninja/solutions.md)
+- [Exercises XP Gold](exercises/12-exercises-xp-gold/solutions.md)
+- [OOP Inheritance course](lessons/01-oop-inheritance-course/solutions.md)
+- [@classmethod, @staticmethod, @property](lessons/02-classmethod-staticmethod-property/solutions.md)
+- [Dunder Methods](lessons/03-dunder-methods/solutions.md)
+- [Class Attribute](lessons/04-class-attribute/solutions.md)
+- [Encapsulation,Polymorphism,Inheritance](lessons/06-encapsulation-polymorphism-inheritance/solutions.md)
+- [Writing our own Modules](lessons/07-writing-our-own-modules/solutions.md)
+- [Exceptions](lessons/09-exceptions/solutions.md)

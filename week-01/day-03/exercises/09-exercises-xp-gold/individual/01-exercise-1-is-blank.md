@@ -15,3 +15,6 @@ console.log(isBlank('abc')); --> false
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

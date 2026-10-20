@@ -14,3 +14,7 @@ Recognize emotions, understand their triggers, regulate reactions and build resi
 ## Quizzes
 
 - [Quiz 1 – Emotional Intelligence Basics](quizzes/05-quiz-1-emotional-intelligence-basics/README.md)
+
+## Worked solutions
+
+- [02-lesson-1-2-self-awareness-understanding-your-emotions](lessons/02-lesson-1-2-self-awareness-understanding-your-emotions/solutions.md)

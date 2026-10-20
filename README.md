@@ -2,11 +2,11 @@
 
 A practical learning reference from the **Geeks Institute bootcamp in Casablanca**, organized from programming fundamentals to backend APIs, databases, React applications and Python OOP.
 
-Explore lesson notes, code examples, exercise briefs and mini-project instructions, with daily and weekly reviews to connect the concepts.
+Explore runnable exercise solutions and mini projects alongside the original course instructions, with English explanations and daily and weekly reviews.
 
 **12 weeks · 79 scheduled days · 343 course pages · 326 individual exercise documents**
 
-[Explore the curriculum](CONTENTS.md) · [Reference library](references/README.md) · [Content availability](CONTENT_STATUS.md) · [Sources and attribution](SOURCES.md)
+[Run the solutions](SOLUTIONS.md) · [Explore the curriculum](CONTENTS.md) · [Reference library](references/README.md) · [Content availability](CONTENT_STATUS.md) · [Sources and attribution](SOURCES.md)
 
 ## Start Here
 
@@ -20,17 +20,17 @@ Explore lesson notes, code examples, exercise briefs and mini-project instructio
 
 ## Project Highlights
 
-Selected project and challenge briefs from the course:
+Selected implemented projects and challenges:
 
 | Project | Practice focus |
 | --- | --- |
-| [Coloring Game](week-01/day-05/projects/02-mini-project-coloring-game/README.md) | DOM manipulation, events and interactive page behavior |
-| [Robo-Friends Search](week-02/day-05/projects/01-mini-project-robo-friends-search/README.md) | Collection filtering, search input and dynamic rendering |
-| [Star Wars API App](week-03/day-05/lessons/01-star-wars-web-app-using-ajax-api/README.md) | Asynchronous requests and API-driven interfaces |
-| [Enhanced Task Manager](week-09/day-01/challenges/09-daily-challenge-enhanced-task-manager/README.md) | React hooks and application state |
-| [Rock Paper Scissors](week-12/day-02/projects/02-mini-project-rock-paper-scissors/README.md) | Python, game rules and program structure |
+| [Coloring Game](week-01/day-05/projects/02-mini-project-coloring-game/solutions.md) | DOM manipulation, events and interactive page behavior |
+| [Robo-Friends Search](week-02/day-05/projects/01-mini-project-robo-friends-search/solutions.md) | Collection filtering, search input and dynamic rendering |
+| [Star Wars API App](week-03/day-05/lessons/01-star-wars-web-app-using-ajax-api/solutions.md) | Asynchronous requests and API-driven interfaces |
+| [Enhanced Task Manager](week-09/day-01/challenges/09-daily-challenge-enhanced-task-manager/solutions.md) | React hooks and application state |
+| [Rock Paper Scissors](week-12/day-02/projects/02-mini-project-rock-paper-scissors/solutions.md) | Python, game rules and program structure |
 
-These links lead to learning requirements and examples. Implementation instructions and shared data remain with each original course item.
+Each solution explains how to run its implementation. Browser apps, Node/Express services, React workspaces, SQL scripts and Python programs use the runtime appropriate to their task. Some API and database projects need external services; requirements are stated beside the code.
 
 ## Learning Path
 
@@ -79,12 +79,13 @@ Each course item has its own folder and `README.md`. Pages containing multiple e
 1. Open a week and select a day.
 2. Read the daily summary and lessons.
 3. Trace or run the examples, then attempt the exercises and challenges.
-4. Follow the project instructions and review the weekly summary.
+4. Open the linked worked solution, run its code, and compare the explanation with your approach.
+5. Review the weekly summary and try the project extensions.
 
-All published files use Markdown. Code examples remain in fenced blocks, illustrations link to their original sources, and the reference library includes PDF text transcriptions and a database download guide.
+Documentation is in English Markdown. Runnable implementations use JavaScript, HTML/CSS, JSX, SQL and Python, with package manifests where required. Each `solutions.md` links the original brief, source code and setup instructions. The reference library includes PDF text transcriptions and a database download guide.
 
 The daily summaries highlight concepts and practice objectives; the weekly summaries connect related topics. The [content availability report](CONTENT_STATUS.md) identifies scheduled days without published material and quizzes with limited visible questions.
 
 ## Course Context
 
-Based on the AI Full Stack Developer Bootcamp #9 at [Geeks Institute](https://www.geeks.institute/), Casablanca. Course material is attributed to its original authors in [Sources and Attribution](SOURCES.md). This repository documents the learning material; the summaries do not imply personal completion of every exercise.
+Based on the AI Full Stack Developer Bootcamp #9 at [Geeks Institute](https://www.geeks.institute/), Casablanca. Course material is attributed to its original authors in [Sources and Attribution](SOURCES.md). Solutions are worked study implementations. Personal reflection examples are labeled as samples; summaries and examples do not claim personal experiences or platform assessment completion.

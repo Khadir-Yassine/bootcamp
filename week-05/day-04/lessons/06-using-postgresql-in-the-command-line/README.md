@@ -96,3 +96,7 @@ Syntax: ...
 **Exercise**
 
 - Open the psql shell and test the above commands on the table actors
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

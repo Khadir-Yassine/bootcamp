@@ -36,3 +36,5 @@ Imagine you’re creating a weather dashboard that allows users to get weather i
 13. Run `index.js` using Node.js and test your weather dashboard by entering different city names.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -38,3 +38,6 @@ const building = {
 5. Check if the sum of Sarah’s and David’s rent is bigger than Dan’s rent. If it is, than increase Dan’s rent to 1200.
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

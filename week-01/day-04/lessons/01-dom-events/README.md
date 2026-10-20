@@ -371,3 +371,6 @@ Check how the propagation works and try to prevent it
     <button id="jsstyle">Style</button>
 </div>
 ```
+
+
+[Worked solutions](solutions.md)

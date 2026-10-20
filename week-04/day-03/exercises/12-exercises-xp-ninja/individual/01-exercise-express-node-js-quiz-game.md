@@ -40,3 +40,5 @@ Create a simple quiz game using Express Node.js. In this exercise, you will buil
 - Implement user authentication to track individual scores.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

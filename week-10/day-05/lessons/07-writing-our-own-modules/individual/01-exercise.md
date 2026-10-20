@@ -20,3 +20,7 @@ Do this process 3 times :
 - the third time by using alias
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

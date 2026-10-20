@@ -21,3 +21,7 @@ Call the function `make_shirt()`.
 7. **Bonus:** Call the function `make_shirt()` using keyword arguments.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-6).

@@ -14,3 +14,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   1. Create a table called `users`.
   2. There should be a one to many relationship between the `users` table and the `product_orders` table.
   3. Create a function that returns the total price for a given order of a given user.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

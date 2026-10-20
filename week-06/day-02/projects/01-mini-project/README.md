@@ -283,3 +283,7 @@ DELETE /api/menu/1
 ### Expected Result
 
 You should have a working **REST API** that allows a restaurant manager to manage menu items using **CRUD operations** connected to a **PostgreSQL database**.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

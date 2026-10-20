@@ -1,0 +1,706 @@
+{
+  "syntax": [
+    {
+      "path": "week-04\\day-01\\challenges\\08-daily-challenge-gifs\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\challenges\\09-daily-challenge-promise-all\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\05-exercises-xp\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\06-exercises-xp-gold\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\06-exercises-xp-gold\\solution\\requests.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\06-exercises-xp-gold\\solution\\timing.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\07-exercises-xp-ninja\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\exercises\\07-exercises-xp-ninja\\solution\\timing.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-01\\lessons\\02-fetch-api\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\13-more-node-js-challenges\\solution\\date.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\13-more-node-js-challenges\\solution\\script.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\14-daily-challenge-node-js-app-npm\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\14-daily-challenge-node-js-app-npm\\solution\\challenge.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\14-daily-challenge-node-js-app-npm\\solution\\colorful-message.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\14-daily-challenge-node-js-app-npm\\solution\\greeting.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\challenges\\14-daily-challenge-node-js-app-npm\\solution\\read-file.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\01-products\\products.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\01-products\\shop.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\02-people\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\02-people\\data.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\03-files\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\03-files\\fileManager.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\04-todo\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\04-todo\\todo.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\05-math\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\05-math\\math.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\06-colors\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\07-explorer\\copy-file.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\10-exercises-xp\\solution\\07-explorer\\read-directory.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\date-operations.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\faker-users.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\fetch-data.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\file-info.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\prompt-user.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\11-exercises-xp-gold\\solution\\regex.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\dashboard.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\index.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\weather-index.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\weather.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\commands\\fetch.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\commands\\greet.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\exercises\\12-exercises-xp-ninja\\solution\\commands\\read.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\06-module-system\\solution\\commonjs\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\06-module-system\\solution\\commonjs\\math.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\06-module-system\\solution\\esm\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\06-module-system\\solution\\esm\\math.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\07-node-package-manager\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\08-core-modules\\solution\\read-file.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-02\\lessons\\08-core-modules\\solution\\write-file.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\challenges\\13-daily-challenge-emoji-guessing-game\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\challenges\\13-daily-challenge-emoji-guessing-game\\solution\\game.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\challenges\\13-daily-challenge-emoji-guessing-game\\solution\\public\\game.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\blog-server.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\book-app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\crud.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\crud.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\proxy-app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\data\\dataService.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\crud.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\crud.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\external-api.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\login-app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\login.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\todo-app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\12-exercises-xp-ninja\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\12-exercises-xp-ninja\\solution\\game.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\12-exercises-xp-ninja\\solution\\public\\game.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\04-create-your-first-http-server\\solution\\simple-server.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\05-introduction-to-express\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\05-introduction-to-express\\solution\\crud.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\05-introduction-to-express\\solution\\crud.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\05-introduction-to-express\\solution\\data.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\06-route-parameters\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\06-route-parameters\\solution\\crud.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\06-route-parameters\\solution\\crud.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\06-route-parameters\\solution\\data.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\07-crud-api\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\07-crud-api\\solution\\crud.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\07-crud-api\\solution\\crud.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\07-crud-api\\solution\\data.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-04\\challenges\\06-daily-challenge\\solution\\solution.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-04\\exercises\\05-exercise-xp\\solution\\solution.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-05\\challenges\\06-daily-challenge\\solution\\solution.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-05\\exercises\\05-exercises-xp\\solution\\solution.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-06\\projects\\01-mini-project-ideas\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-06\\projects\\01-mini-project-ideas\\solution\\models.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-06\\projects\\01-mini-project-ideas\\solution\\seed.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-06\\projects\\01-mini-project-ideas\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-07\\projects\\01-mini-project-ideas-open-creative\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-07\\projects\\01-mini-project-ideas-open-creative\\solution\\models.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-07\\projects\\01-mini-project-ideas-open-creative\\solution\\seed.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-04\\day-07\\projects\\01-mini-project-ideas-open-creative\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\challenges\\07-daily-challenge\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\challenges\\07-daily-challenge\\solution\\schema.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\challenges\\07-daily-challenge\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\challenges\\07-daily-challenge\\solution\\models\\Task.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\exercises\\06-exercises-xp\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\exercises\\06-exercises-xp\\solution\\schema.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\exercises\\06-exercises-xp\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-01\\exercises\\06-exercises-xp\\solution\\models\\Student.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\challenges\\06-daily-challenge\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\challenges\\06-daily-challenge\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\challenges\\06-daily-challenge\\solution\\models\\blog.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\exercises\\05-exercises-xp\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\exercises\\05-exercises-xp\\solution\\middleware-demo.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\exercises\\05-exercises-xp\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\exercises\\05-exercises-xp\\solution\\models\\blog.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-02\\exercises\\05-exercises-xp\\solution\\models\\Student.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\lessons\\04-user-product-modeling-production-ready\\solution\\vendor-products.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\purchase.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\schema.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\seed.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\config\\connect.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\models\\Order.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\models\\Product.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\models\\User.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\services\\purchase.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\app.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\app.test.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\db.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\server.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\controllers\\menuController.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\models\\menuModel.js",
+      "passed": true,
+      "output": ""
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\routes\\menuRoutes.js",
+      "passed": true,
+      "output": ""
+    }
+  ],
+  "tests": [
+    {
+      "path": "week-04\\day-03\\challenges\\13-daily-challenge-emoji-guessing-game\\solution\\game.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d emoji game generates valid questions, evaluates server answers and ranks players (142.941ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 519.2505\n"
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\10-exercises-xp\\solution\\crud.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d CRUD handles validation, IDs, creation, updates, deletion and search (137.1957ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 466.9625\n"
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\crud.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d CRUD handles validation, IDs, creation, updates, deletion and search (145.426ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 531.0611\n"
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\11-exercises-xp-gold\\solution\\login.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d registration, login, protected profile, role restriction and account lockout (2475.1662ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 2953.8774\n"
+    },
+    {
+      "path": "week-04\\day-03\\exercises\\12-exercises-xp-ninja\\solution\\game.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d quiz scores correct answers, ends after last question and isolates players (167.5181ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 495.811\n"
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\05-introduction-to-express\\solution\\crud.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d CRUD handles validation, IDs, creation, updates, deletion and search (167.9056ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 525.3934\n"
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\06-route-parameters\\solution\\crud.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d CRUD handles validation, IDs, creation, updates, deletion and search (137.5101ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 486.8872\n"
+    },
+    {
+      "path": "week-04\\day-03\\lessons\\07-crud-api\\solution\\crud.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d CRUD handles validation, IDs, creation, updates, deletion and search (158.8067ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 548.4119\n"
+    },
+    {
+      "path": "week-05\\day-01\\challenges\\07-daily-challenge\\solution\\schema.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d task defaults and constraints (14.067ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 1245.6405\n"
+    },
+    {
+      "path": "week-05\\day-01\\exercises\\06-exercises-xp\\solution\\schema.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d student requires name and email and rejects minors (10.6258ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 1082.99\n"
+    },
+    {
+      "path": "week-05\\day-03\\projects\\05-final-project-capstone\\solution\\schema.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d product rejects negative price, negative/non-integer stock (12.0183ms)\n\u00e2\u0153\u201d orders require items and enforce status (5.0467ms)\n\u00e2\u0153\u201d password excluded and compound index declared (0.278ms)\n\u00e2\u201e\u00b9 tests 3\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 3\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 1063.4867\n"
+    },
+    {
+      "path": "week-06\\day-02\\projects\\01-mini-project\\solution\\app.test.js",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d restaurant API contracts, validation and missing IDs (in-memory model double) (143.4952ms)\n\u00e2\u201e\u00b9 tests 1\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 1\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 478.8896\n"
+    },
+    {
+      "path": "week-04\\logic.test.cjs",
+      "passed": true,
+      "output": "\u00e2\u0153\u201d dates handle year rollover, minute precision and invalid birthdates (3.1597ms)\n\u00e2\u0153\u201d regex extracts digits and validates exactly two capitalized names (1.2691ms)\n\u00e2\u0153\u201d ES module TodoList keeps task state private and rejects missing tasks (3.0281ms)\n\u00e2\u201e\u00b9 tests 3\n\u00e2\u201e\u00b9 suites 0\n\u00e2\u201e\u00b9 pass 3\n\u00e2\u201e\u00b9 fail 0\n\u00e2\u201e\u00b9 cancelled 0\n\u00e2\u201e\u00b9 skipped 0\n\u00e2\u201e\u00b9 todo 0\n\u00e2\u201e\u00b9 duration_ms 50.1276\n"
+    },
+    {
+      "path": "week-05\\day-06\\lessons\\02-python-file-i-o\\solution/test_names.py",
+      "passed": true,
+      "output": ".\n----------------------------------------------------------------------\nRan 1 test in 0.009s\n\nOK\n"
+    }
+  ]
+}

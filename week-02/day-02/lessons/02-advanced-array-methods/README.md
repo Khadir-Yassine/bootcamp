@@ -377,3 +377,7 @@ console.log(newPriceArray);
 let alphabets = ["A", ..."BCD", "E"];
 console.log(alphabets);
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

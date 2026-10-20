@@ -24,3 +24,5 @@ You will recreate this form:
 **Expected output:**
 
 ![output](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day4/Exercise%20XP%20Gold/output.png)
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/forms.jsx).

@@ -27,3 +27,6 @@ Understand variables, primitive values, comparisons, conditionals, loops, arrays
 
 - [Daily challenge: Not Bad](challenges/14-daily-challenge-not-bad/README.md)
 - [Daily challenge: Stars](challenges/15-daily-challenge-stars/README.md)
+
+
+[Runnable solutions for this week](../SOLUTIONS.md)

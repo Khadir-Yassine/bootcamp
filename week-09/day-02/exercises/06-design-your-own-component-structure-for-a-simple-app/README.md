@@ -21,3 +21,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   
   - `<UserWelcome ... />` (Child)
   - ... *(what goes here?)*
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

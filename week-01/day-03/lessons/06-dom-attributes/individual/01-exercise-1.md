@@ -128,3 +128,6 @@ Syntax : element.className = 'newClassName';
 - [2nd example](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onclick_dropdown)
 
 ---
+
+
+[Worked solutions](../solutions.md)

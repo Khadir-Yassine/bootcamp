@@ -15,3 +15,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Turn the greeting array into a string: ‘Hello young grasshopper! you are learning fast!’.
 
 4. Turn the trapped number 3 `const trapped = [[[[[[[[[[[[[[[[[[[[[[[[[[3]]]]]]]]]]]]]]]]]]]]]]]]]]` into: `[3]`
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-4).

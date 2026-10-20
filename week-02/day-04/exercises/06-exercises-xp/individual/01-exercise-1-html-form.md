@@ -20,3 +20,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Where will the sent data appear?
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

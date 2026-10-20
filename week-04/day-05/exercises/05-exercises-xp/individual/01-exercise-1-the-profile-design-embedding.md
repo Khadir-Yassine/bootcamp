@@ -28,3 +28,5 @@ db.users.insertOne({
 **✅ Success Criteria:** Run `db.users.find()` in Compass. You should see a small arrow next to the `address` field that allows you to expand/collapse the city and country details.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

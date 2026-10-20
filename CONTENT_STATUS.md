@@ -52,9 +52,11 @@ The archive contains 343 course pages across 12 weeks and 79 scheduled days. Pag
 
 ## Format and Preservation
 
-- Repository content is Markdown only, with code examples retained in fenced blocks.
+- English Markdown documentation now includes runnable JavaScript, HTML/CSS, React, Node/Express, SQL and Python implementations. See [Solutions](SOLUTIONS.md).
 - Course illustrations use their original external URLs.
 - Five PDF references are transcribed into Markdown with original links for diagrams and page layout.
 - The database archive is represented by a Markdown download reference; it remains a database backup rather than text documentation.
 - Videos, services and external repositories remain linked references.
-- No new exercise solutions or quiz attempts were added.
+- Worked exercise solutions and study explanations have been added. No new platform quiz attempts were submitted.
+- Empty source pages and unseen quiz questions remain explicitly unavailable; no assignment requirements are invented for them.
+- Validation completed before the owner requested stopping additional checks is recorded in [Validation](VALIDATION.md).

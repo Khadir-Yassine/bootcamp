@@ -15,3 +15,11 @@ Introduce classes, objects and instance methods. Use examples and exercises to g
 - [Exercises XP Gold](exercises/04-exercises-xp-gold/README.md) — 3 individual exercise documents
 - [Exercises XP Ninja](exercises/05-exercises-xp-ninja/README.md) — 1 individual exercise documents
 - [Exercises XP](exercises/06-exercises-xp/README.md) — 4 individual exercise documents
+
+## Worked solutions
+
+- [Exercises XP Gold](exercises/04-exercises-xp-gold/solutions.md)
+- [Exercises XP Ninja](exercises/05-exercises-xp-ninja/solutions.md)
+- [Exercises XP](exercises/06-exercises-xp/solutions.md)
+- [Introduction to OOP](lessons/01-introduction-to-oop/solutions.md)
+- [Instance methods](lessons/03-instance-methods/solutions.md)

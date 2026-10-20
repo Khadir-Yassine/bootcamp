@@ -42,3 +42,6 @@ To do this project, you basically need to create four functions:
 - After contemplating the question above, think about splitting your code into smaller pieces (functions).
 
 - Remember to follow the single responsibility principle! each function should do one thing and do it well!
+
+
+[Worked solutions](solutions.md)

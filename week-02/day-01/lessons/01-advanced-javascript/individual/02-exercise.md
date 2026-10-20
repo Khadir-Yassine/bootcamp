@@ -22,3 +22,7 @@ console.log(checkAge(21));
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

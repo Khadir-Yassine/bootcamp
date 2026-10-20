@@ -328,3 +328,7 @@ When testing components that use `useReducer`, you can test the reducer function
 In this guide, you’ve learned how to create reducers, dispatch actions, and use `useReducer` for both simple and complex state management. You’ve also explored advanced techniques, including combining reducers, using context, and implementing middleware.
 
 As you continue to work on React projects, consider the specific needs of your application and choose the state management approach that best fits your requirements, whether it’s `useState`, `useReducer`, or a combination of both. State management is a crucial aspect of building robust and maintainable React applications, and `useReducer` is a powerful tool to have in your toolkit.
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

@@ -50,3 +50,6 @@ Using this HTML code:
 4. Instead of clicking on the button, the interval will be cleared (ie. `clearInterval`) as soon as there will be 5 paragraphs inside the `<div id="container">`.
 
 ---
+
+
+[Worked solutions](../solutions.md)

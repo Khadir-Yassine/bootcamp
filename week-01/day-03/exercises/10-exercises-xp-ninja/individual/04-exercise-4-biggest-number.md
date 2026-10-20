@@ -19,3 +19,6 @@ const array3 = []; // should return 0
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

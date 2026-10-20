@@ -12,3 +12,9 @@ Build a searchable robot interface and a game using arrays, objects, functions a
 
 - [Mini-Project - Robo-Friends Search](projects/01-mini-project-robo-friends-search/README.md)
 - [Mini-Project - Tic Tac Toe Game](projects/02-mini-project-tic-tac-toe-game/README.md)
+
+## Worked solutions
+
+- [03-daily-challenge-anagram](challenges/03-daily-challenge-anagram/solutions.md)
+- [01-mini-project-robo-friends-search](projects/01-mini-project-robo-friends-search/solutions.md)
+- [02-mini-project-tic-tac-toe-game](projects/02-mini-project-tic-tac-toe-game/solutions.md)

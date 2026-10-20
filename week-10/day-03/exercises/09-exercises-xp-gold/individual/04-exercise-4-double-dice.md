@@ -34,3 +34,7 @@ Then my output would show something like this:
 Total throws: 8
 Average throws to reach doubles: 2.67.
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-4).

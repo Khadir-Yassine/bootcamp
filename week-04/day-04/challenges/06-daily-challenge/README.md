@@ -69,3 +69,7 @@ db.products.find().sort({ price: -1 }).limit(1)
 | Add/Subtract from a number | `$inc` |
 | Multiply a number (Percentages) | `$mul` |
 | Add an item to a list/array | `$push` |
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

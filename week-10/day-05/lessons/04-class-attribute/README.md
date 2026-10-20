@@ -105,3 +105,7 @@ print(circle1.get_color())
 circle1.grow(3)
 print(circle1.diameter)
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

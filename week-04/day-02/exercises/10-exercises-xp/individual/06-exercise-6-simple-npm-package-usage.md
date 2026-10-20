@@ -22,3 +22,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 7. Run `app.js` using Node.js and observe the colorful output in the terminal.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -1,0 +1,20 @@
+### List all
+GET http://localhost:3000/api/menu
+
+### Create
+POST http://localhost:3000/api/menu
+Content-Type: application/json
+
+{"name":"Soup","price":20}
+
+### Find by name
+GET http://localhost:3000/api/menu/Soup
+
+### Update (replace 1 with the created item_id)
+PUT http://localhost:3000/api/menu/1
+Content-Type: application/json
+
+{"name":"Veggie Burger","price":37}
+
+### Delete
+DELETE http://localhost:3000/api/menu/1

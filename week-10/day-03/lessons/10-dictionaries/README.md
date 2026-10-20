@@ -42,3 +42,7 @@ You will create a Python script that processes user input to map the positions o
 ### **Submit your Daily Challenge**
 
 Don’t forget to push to Github. Make sure your script is well-commented, follows Python best practices, and includes a brief explanation of your approach and the choices you made in solving this challenge.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

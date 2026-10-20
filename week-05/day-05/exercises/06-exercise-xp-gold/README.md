@@ -120,3 +120,7 @@ Here is the explanation of the first row:
   3. Item name
 
 3. Add a row which references a customer by ID, but does not reference an item by ID (leave it blank). Does this work? Why/why not?
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

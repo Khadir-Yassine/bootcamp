@@ -1,0 +1,1 @@
+const express=require('express'),{fetchPosts}=require('./data/dataService');const app=express();app.get('/api/posts',async(_req,res)=>{try{res.json(await fetchPosts());console.log('Posts retrieved and sent');}catch(e){res.status(502).json({message:'Upstream API unavailable'});}});app.use((_req,res)=>res.status(404).json({message:'Not found'}));app.listen(process.env.PORT||5000);

@@ -32,7 +32,7 @@ const prices = {
 3. Create a function called `myBill()` that takes no parameters.
 
 4. The function should return the total price of your `shoppingList`. In order to do this you must follow these rules:
-  
+
   1. The item must be in stock. (*Hint* : check out `if .. in`)
   2. If the item is in stock find out the price in the `prices` object.
 
@@ -41,3 +41,6 @@ const prices = {
 6. **Bonus:** If the item is in stock, decrease the item’s stock by 1
 
 ---
+
+
+[Worked solutions](../solutions.md)

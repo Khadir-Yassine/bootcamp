@@ -27,3 +27,5 @@ db.orders.insertOne({
 **✅ Success Criteria:** Run `db.orders.find()`. You should see the `userId` field highlighted in a different color, indicating it is a valid **ObjectId** reference.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

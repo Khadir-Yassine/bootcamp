@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Using the `for each` method, display only the even numbers in the array
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

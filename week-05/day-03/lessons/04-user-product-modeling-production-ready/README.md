@@ -97,3 +97,7 @@ Instead of manually creating a "Date" field in every schema, adding this option 
 ```javascript
 const vendorProducts = await Product.find({ owner: someUserId }).populate("owner", "name");
 ```
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

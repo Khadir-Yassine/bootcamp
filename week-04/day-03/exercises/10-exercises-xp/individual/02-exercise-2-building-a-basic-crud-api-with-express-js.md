@@ -28,3 +28,5 @@ In this exercise, you’ll build a basic CRUD (Create, Read, Update, Delete) API
 9. Implement the “Create” route at `POST /api/books`. Use the `express.json()` middleware to parse JSON body content. Inside the route handler, create a new book object with an incremented ID and the data from the request body. Add the new book to the `books` array and return a JSON response with the new book and a status code of 201 (Created).
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

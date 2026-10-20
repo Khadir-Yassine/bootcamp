@@ -251,3 +251,6 @@ Functions should be short and do precisely one thing. If that thing is big, mayb
 4. Call the function
 
 5. In the global scope, console.log the result of the function
+
+
+[Worked solutions](solutions.md)

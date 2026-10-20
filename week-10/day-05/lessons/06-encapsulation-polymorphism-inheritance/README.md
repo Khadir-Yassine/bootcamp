@@ -294,3 +294,7 @@ if __name__ == '__main__':
     boring_book = Fiction('boring_guy', 'boring_title', 'boring_date', '9000£', False)
     print(boring_book.bored)
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

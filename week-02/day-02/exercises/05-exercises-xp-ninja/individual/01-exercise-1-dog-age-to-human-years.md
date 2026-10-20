@@ -50,3 +50,7 @@ const data = [
 2. Using the `reduce()` method, find the sum of the dogs’ ages in human years.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

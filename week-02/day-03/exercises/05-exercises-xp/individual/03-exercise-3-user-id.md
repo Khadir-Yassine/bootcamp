@@ -17,3 +17,7 @@ Using this object `const users = { user1: 18273, user2: 92833, user3: 90315 }`
 *Excepted output*: `[ [ 'user1', 36546 ], [ 'user2', 185666 ], [ 'user3', 180630 ] ]`
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

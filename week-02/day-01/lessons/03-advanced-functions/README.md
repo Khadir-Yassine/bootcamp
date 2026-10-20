@@ -306,3 +306,7 @@ const h = x => f(g(x));
 
 h(20); //=> 42
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

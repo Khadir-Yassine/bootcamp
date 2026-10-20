@@ -203,3 +203,7 @@ If the number is a multiple of three, print `Fizz`
 If the number is a multiple of five, print `Buzz`.
 
 If the number is a multiple is a multiples of both three and five, print `FizzBuzz` instead.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

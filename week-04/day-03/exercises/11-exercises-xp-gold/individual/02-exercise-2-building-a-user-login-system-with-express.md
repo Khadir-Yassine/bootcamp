@@ -50,3 +50,5 @@ In this intermediate exercise, you will create a user Login system using Express
 2. Add user roles and permissions to restrict access to certain routes based on the user’s role.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

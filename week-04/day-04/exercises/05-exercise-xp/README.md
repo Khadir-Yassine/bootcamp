@@ -64,3 +64,7 @@ After every exercise, run this command to see the current state of your "Academy
 ```javascript
 db.students.find().pretty()
 ```
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

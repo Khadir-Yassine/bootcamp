@@ -278,3 +278,7 @@ When testing components that use `useRef`, consider using testing libraries like
 In this guide, you’ve learned how to create `useRef` references, access DOM elements, and use `useRef` for state management in various scenarios. Additionally, you’ve tackled advanced techniques, including scroll tracking, caching, and animation management. Finally, you’ve put your knowledge to the test with exercises that reinforce your understanding of `useRef` in practical situations.
 
 As you continue to explore React and build applications, remember to consider the specific requirements of your components and choose the appropriate tools, whether it’s `useState`, `useReducer`, or `use`
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

@@ -8,3 +8,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Experiment further by adding more routes or handling different paths as shown in the provided content. You can modify the code to respond differently based on the URL path requested by the client.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

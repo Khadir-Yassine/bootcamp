@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Follow [this tutorial](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript) and do the quizz until the page called “a few tricks with promises”.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-4).

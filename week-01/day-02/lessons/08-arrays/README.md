@@ -187,3 +187,6 @@ console.log(colors) // ["blue", "yellow", "green" ];
 3. Add to the array *pets*, the pet horse. Remove the pet rabbit
 
 4. Display the array length
+
+
+[Worked solutions](solutions.md)

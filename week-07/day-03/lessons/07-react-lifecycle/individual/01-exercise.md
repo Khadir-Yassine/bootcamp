@@ -10,3 +10,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Use an API that retrieves a list (Star Wars API, Robot API or else)
 
 - Display the list using Javascript array methods
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

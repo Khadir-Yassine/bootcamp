@@ -15,3 +15,6 @@ let age = [20,5,12,43,98,55];
 
 1. Console.log the sum of all the numbers in the age array.
 2. Console.log the highest age in the array.
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

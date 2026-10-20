@@ -78,3 +78,6 @@ Two independent actions usually deserve two functions.
 Functions should be short and do precisely one thing. If that thing is big, maybe it’s worth to split the function into a few smaller functions.
 
 ---
+
+
+[Worked solutions](../solutions.md)

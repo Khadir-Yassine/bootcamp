@@ -43,3 +43,5 @@ setTimeout(parallel, 5000)
 ```
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

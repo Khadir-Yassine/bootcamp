@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 1. Create a promise that resolves itself in 4 seconds and returns a “success” string.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

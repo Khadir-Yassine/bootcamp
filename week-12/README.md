@@ -10,3 +10,6 @@ Review the highlighted course tools and concepts, then apply Python in Rock Pape
 | --- | --- | ---: | --- |
 | [1](day-01/README.md) | Mini Project | 1 | [Summary](day-01/summary.md) |
 | [2](day-02/README.md) | Mini Project | 4 | [Summary](day-02/summary.md) |
+
+
+[Runnable solutions](SOLUTIONS.md)

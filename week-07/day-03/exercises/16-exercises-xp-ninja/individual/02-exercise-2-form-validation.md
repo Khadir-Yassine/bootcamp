@@ -22,3 +22,5 @@ Create a Form Validation with React:
   - check if they are empty
   - check for a valid phone and email input (You can use Regex for your functions)
 ***Don’t use HTML validation, create your own validation using Regex***
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/forms.jsx).

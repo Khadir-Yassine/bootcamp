@@ -137,3 +137,6 @@ while (i < 10);
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

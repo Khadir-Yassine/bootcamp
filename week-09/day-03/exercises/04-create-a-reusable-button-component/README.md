@@ -10,3 +10,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   1. `text` (What the button says).
   2. `color` (The background color of the button).
   3. `action` (The function that runs when clicked).
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

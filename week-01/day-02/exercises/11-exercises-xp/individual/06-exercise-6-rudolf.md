@@ -18,3 +18,6 @@ const details = {
 1. Given the object above and using a `for loop`, console.log “my name is Rudolf the reindeer”
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

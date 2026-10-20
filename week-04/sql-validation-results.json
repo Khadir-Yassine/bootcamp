@@ -1,0 +1,446 @@
+[
+  {
+    "file": "week-05\\day-04\\challenges\\11-daily-challenge-actors\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\exercises\\08-exercises-xp\\solution\\solution.sql",
+    "passed": true,
+    "statements": 12,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      2,
+      3,
+      0,
+      2,
+      4,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\exercises\\09-exercise-xp\\solution\\solution.sql",
+    "passed": true,
+    "statements": 17,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      7,
+      7,
+      1,
+      1,
+      2,
+      5,
+      1,
+      2,
+      1,
+      0,
+      2,
+      3,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\exercises\\10-exercises-xp-gold\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      1,
+      3,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\lessons\\04-introduction-to-postgresql\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\lessons\\05-postgresql-fundamentals\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      4,
+      4,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-04\\lessons\\07-update-delete-alter\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\challenges\\08-daily-challenge-sql-puzzle\\solution\\solution.sql",
+    "passed": true,
+    "statements": 11,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\exercises\\05-exercises-xp\\solution\\dvdrental.sql",
+    "passed": true,
+    "statements": 17,
+    "rowCounts": [
+      0,
+      3,
+      3,
+      1,
+      3,
+      6,
+      1,
+      0,
+      1,
+      1,
+      6,
+      0,
+      5,
+      1,
+      3,
+      5,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\exercises\\05-exercises-xp\\solution\\solution.sql",
+    "passed": true,
+    "statements": 10,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      3,
+      3,
+      5,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\exercises\\06-exercise-xp-gold\\solution\\dvdrental.sql",
+    "passed": true,
+    "statements": 7,
+    "rowCounts": [
+      0,
+      4,
+      3,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\exercises\\06-exercise-xp-gold\\solution\\solution.sql",
+    "passed": true,
+    "statements": 31,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      3,
+      1,
+      2,
+      3,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\exercises\\07-exercises-xp-ninja\\solution\\solution.sql",
+    "passed": true,
+    "statements": 17,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      1,
+      2,
+      2,
+      0,
+      0,
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\lessons\\01-aggregate-functions\\solution\\solution.sql",
+    "passed": true,
+    "statements": 9,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      1,
+      4,
+      4,
+      2,
+      3,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\lessons\\03-foreign-key-inner-join\\solution\\solution.sql",
+    "passed": true,
+    "statements": 9,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-05\\lessons\\04-postgresql-joins\\solution\\solution.sql",
+    "passed": true,
+    "statements": 10,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      5,
+      3,
+      6,
+      0
+    ]
+  },
+  {
+    "file": "week-05\\day-06\\lessons\\03-introduction-to-sql-subqueries\\solution\\solution.sql",
+    "passed": true,
+    "statements": 7,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-01\\challenges\\09-daily-challenge-tables-relationships\\solution\\solution.sql",
+    "passed": true,
+    "statements": 21,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      1,
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-01\\challenges\\10-daily-challenge-items-and-orders\\solution\\solution.sql",
+    "passed": true,
+    "statements": 13,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-01\\exercises\\06-exercises-xp\\solution\\solution.sql",
+    "passed": true,
+    "statements": 22,
+    "rowCounts": [
+      0,
+      3,
+      6,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      1,
+      2,
+      1,
+      1,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-01\\exercises\\07-exercises-xp-gold\\solution\\solution.sql",
+    "passed": true,
+    "statements": 18,
+    "rowCounts": [
+      0,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      0,
+      2,
+      2,
+      3,
+      0,
+      0,
+      5,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-01\\exercises\\08-exercise-xp-ninja\\solution\\solution.sql",
+    "passed": true,
+    "statements": 8,
+    "rowCounts": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      4,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "week-06\\day-02\\projects\\01-mini-project\\solution\\schema.sql",
+    "passed": true,
+    "statements": 4,
+    "rowCounts": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

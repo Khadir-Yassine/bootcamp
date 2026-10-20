@@ -1,0 +1,15 @@
+'use strict';
+const data = [{ name: 'Butters', age: 3, type: 'dog' }, { name: 'Cuty', age: 5, type: 'rabbit' }, { name: 'Lizzy', age: 6, type: 'dog' }, { name: 'Red', age: 1, type: 'cat' }, { name: 'Joey', age: 3, type: 'dog' }, { name: 'Rex', age: 10, type: 'dog' }];
+let loopAge = 0;
+for (const animal of data) if (animal.type === 'dog') loopAge += animal.age * 7;
+const reducedAge = data.reduce((sum, animal) => sum + (animal.type === 'dog' ? animal.age * 7 : 0), 0);
+const cleanEmail = email => email.replace(/\s/g, '');
+const { users } = require('../03-exercises-xp/solution.js');
+const employees = {};
+users.forEach(({ firstName, lastName, role }) => { employees[`${firstName} ${lastName}`] = role; });
+const letters = ['x', 'y', 'z', 'z'];
+const countedLoop = {};
+for (const letter of letters) countedLoop[letter] = (countedLoop[letter] || 0) + 1;
+const countLetters = values => values.reduce((counts, letter) => { counts[letter] = (counts[letter] || 0) + 1; return counts; }, Object.create(null));
+console.log({ loopAge, reducedAge, email: cleanEmail(' cannotfillemailformcorrectly@gmail.com '), employees, countedLoop, countedReduce: countLetters(letters) });
+module.exports = { loopAge, reducedAge, cleanEmail, employees, countedLoop, countLetters };

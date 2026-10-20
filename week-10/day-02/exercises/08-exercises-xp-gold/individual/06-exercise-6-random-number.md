@@ -15,3 +15,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 
 **Bonus:** use a loop that allows the user to keep guessing until they want to quit.
 **Bonus 2:** on exiting the loop, tally up and display total games won and lost.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-6).

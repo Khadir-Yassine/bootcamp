@@ -23,3 +23,7 @@ const students = [{name: "Ray", course: "Computer Science", isPassed: true},
 2. **Bonus** : Chain the `filter` method with a `forEach` method, to congratulate the students with their name and course name (ie. “Good job Jenner, you passed the course in Information Technology”, “Good Job Marco you passed the course in Robotics” ect…)
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-6).

@@ -18,3 +18,7 @@ numbers();
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

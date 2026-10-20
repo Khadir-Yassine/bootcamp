@@ -16,3 +16,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 5. Use SQL to find all purchases. Join *purchases* with the *customers* table, so that Scott’s order will NOT appear. (Which kind of join should you use?)
 
 ---
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

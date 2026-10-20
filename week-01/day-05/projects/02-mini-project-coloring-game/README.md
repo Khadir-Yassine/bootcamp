@@ -30,13 +30,13 @@ You will need to use HTML, CSS and JS to accomplish this task.
 **A few things to think about…**
 
 1. HTML, CSS:
-  
+
   - How will you make the grid of colors?
   - How will you make the grid of blank squares?
   - Hint… GRID :P
 
 2. JS:
-  
+
   - How does a user choose a color?
   - How does drawing work? How can you tell when the user is clicking and dragging?
   - Hint, look at the JS events `mousedown`, `mouseup`, and `mouseover`.
@@ -50,3 +50,6 @@ You will need to use HTML, CSS and JS to accomplish this task.
 | Duration (approx) |
 | --- |
 | > 2h30 |
+
+
+[Worked solutions](solutions.md)

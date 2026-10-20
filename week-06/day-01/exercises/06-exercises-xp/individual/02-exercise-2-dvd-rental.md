@@ -23,3 +23,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   2. The 2nd film : A short documentary (less than 1 hour long), rated “R”.
   3. The 3rd film : A film that his friend Matthew Mahan rented. He paid over $4.00 for the rental, and he returned it between the 28th of July and the 1st of August, 2005.
   4. The 4th film : His friend Matthew Mahan watched this film, as well. It had the word “boat” in the title or description, and it looked like it was a very expensive DVD to replace.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

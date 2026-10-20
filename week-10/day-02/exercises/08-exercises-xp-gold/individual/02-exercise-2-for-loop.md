@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 2. Using a for loop, that loops from 1 to 20 (inclusive), print out every element which has an even index.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

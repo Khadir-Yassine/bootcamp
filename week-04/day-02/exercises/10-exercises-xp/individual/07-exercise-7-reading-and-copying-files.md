@@ -24,3 +24,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Run `node read-directory.js` to list the files in the directory.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

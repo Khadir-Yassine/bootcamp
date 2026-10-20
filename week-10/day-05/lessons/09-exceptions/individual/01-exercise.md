@@ -83,3 +83,7 @@ try:
 except AssertionError:
     print("Error: Those are not equals")
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

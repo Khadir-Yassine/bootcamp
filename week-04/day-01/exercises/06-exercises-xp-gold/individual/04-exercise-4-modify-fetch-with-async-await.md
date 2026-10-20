@@ -43,3 +43,5 @@ So there shouldn’t be any `.then()` calls anymore!
 ![output](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%205/Day%204/Exercise%20XP%20Gold/Screenshot%20from%202020-06-14%2018-06-31.png)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

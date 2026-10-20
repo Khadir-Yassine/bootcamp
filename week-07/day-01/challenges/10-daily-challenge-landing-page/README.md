@@ -171,3 +171,7 @@ Your landing page should include:
 ### Bonus Challenge (Optional)
 
 Try adding a **Hero section**
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

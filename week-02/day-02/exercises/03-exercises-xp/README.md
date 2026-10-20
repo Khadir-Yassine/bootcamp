@@ -131,3 +131,7 @@ const students = [{name: "Ray", course: "Computer Science", isPassed: true},
 | Duration (approx) |
 | --- |
 | > 1h15 |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

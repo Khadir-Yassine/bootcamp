@@ -26,3 +26,7 @@ console.log(`I am ${name} from ${city}, ${country}. Latitude(${lat}), Longitude(
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

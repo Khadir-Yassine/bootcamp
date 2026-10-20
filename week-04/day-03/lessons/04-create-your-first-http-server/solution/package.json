@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-03-lessons-04-create-your-first-http-server-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node simple-server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

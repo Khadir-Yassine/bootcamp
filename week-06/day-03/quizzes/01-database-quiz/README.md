@@ -14,3 +14,5 @@ D
 INSERT INTO products (discount) VALUES (0.1);
 
 > Only the currently visible question and instructions are exported. Later questions require answering the quiz; no answers were selected.
+
+[Answer availability](solutions.md) — archived questions are unavailable.

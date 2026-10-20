@@ -26,3 +26,7 @@ family = {"rick": 43, 'beth': 13, 'morty': 5, 'summer': 8}
 3. **Bonus:** Ask the user to input the names and ages instead of using the provided family variable (Hint: ask the user for names and ages and add them into a family dictionary that is initially empty).
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

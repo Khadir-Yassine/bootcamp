@@ -1,0 +1,9 @@
+const academy=db.getSiblingDB('bootcamp_academy');
+academy.students.deleteMany({});
+academy.students.insertMany([{name:'Yassine',age:19,city:'Rabat',major:'AI'},{name:'Sophia',age:26,city:'Paris',major:'Cybersecurity'},{name:'Kaito',age:22,city:'Tokyo',major:'Web Dev'},{name:'Elena',age:31,city:'Madrid',major:'Data Science'},{name:'Marcus',age:24,city:'New York',major:'AI'}]);
+printjson(academy.students.find({age:{$gte:18,$lte:25}}).toArray());
+academy.students.updateOne({name:'Yassine'},{$set:{city:'Casablanca'}});
+academy.students.deleteOne({name:'Sophia'});
+academy.students.updateMany({major:'AI'},{$set:{major:'Generative AI'}});
+printjson(academy.students.find().toArray());
+if(academy.students.countDocuments()!==4)throw new Error('Expected four students');

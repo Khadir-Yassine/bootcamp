@@ -29,3 +29,7 @@ print(circle1.get_color())
 circle1.grow(3)
 print(circle1.diameter)
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

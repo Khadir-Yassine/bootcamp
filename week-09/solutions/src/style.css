@@ -1,0 +1,147 @@
+:root {
+  font-family: Georgia, serif;
+  color: #292c28;
+  background: #f4f0e5;
+  font-size: 17px;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+header {
+  padding: 35px 6vw;
+  background: #2f3d30;
+  color: #faf6e9;
+}
+header p {
+  font:
+    12px Verdana,
+    sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+h1 {
+  font-size: clamp(2rem, 5vw, 3.6rem);
+  font-weight: normal;
+}
+main {
+  max-width: 1160px;
+  margin: auto;
+  padding: 30px 24px;
+}
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+button {
+  padding: 10px 17px;
+  background: #d8e598;
+  color: #263e29;
+  border: 1px solid #7b8c60;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 4px;
+}
+button:hover {
+  filter: brightness(1.08);
+}
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+section {
+  padding: 25px;
+  margin: 20px 0;
+  border: 1px solid #c6ccb7;
+  background: #fffcf3;
+}
+label {
+  display: block;
+  margin: 14px 0;
+}
+input,
+textarea,
+select {
+  padding: 10px;
+  border: 1px solid #869578;
+  max-width: 100%;
+}
+input[type="checkbox"] {
+  margin-right: 15px;
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+a {
+  color: #557237;
+}
+header a {
+  color: white;
+}
+li {
+  padding: 8px;
+}
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+.dashboard {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 24px;
+}
+.dashboard aside a {
+  display: block;
+  padding: 14px 0;
+}
+.dark {
+  background: #202924;
+  color: #ebf2d8;
+}
+.dark section {
+  background: #29372d;
+  color: #ebf2d8;
+}
+.dark a {
+  color: #d8e598;
+}
+.completed {
+  text-decoration: line-through;
+}
+.warning {
+  background: #f7bc77;
+  padding: 14px;
+}
+[role="alert"] {
+  color: #b22e23;
+}
+:focus-visible {
+  outline: 3px solid #ba5d2d;
+  outline-offset: 3px;
+}
+@media (max-width: 650px) {
+  .dashboard {
+    display: block;
+  }
+  .dashboard aside {
+    display: flex;
+    gap: 18px;
+  }
+  section {
+    padding: 17px;
+  }
+  main {
+    padding: 15px;
+  }
+}

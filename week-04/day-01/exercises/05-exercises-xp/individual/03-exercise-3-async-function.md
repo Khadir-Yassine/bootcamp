@@ -25,3 +25,5 @@ The program shouldn’t contain any `then()` method.
 ![output](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%205/Day%204/Exercise%20XP/Screenshot%20from%202020-06-15%2014-45-33.png)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

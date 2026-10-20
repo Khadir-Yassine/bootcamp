@@ -16,3 +16,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 4. **Bonus** : Create a method that generates a second list with the same length as `mylist`. The list should be constructed with random numbers. *(use list comprehension)*.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

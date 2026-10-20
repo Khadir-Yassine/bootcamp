@@ -18,3 +18,8 @@ Use instance methods, static methods, hooks and population to organize model beh
 ## Challenges
 
 - [Daily Challenge](challenges/06-daily-challenge/README.md)
+
+## Worked solutions
+
+- [06-daily-challenge](challenges/06-daily-challenge/solutions.md)
+- [05-exercises-xp](exercises/05-exercises-xp/solutions.md)

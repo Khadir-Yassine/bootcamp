@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-01-lessons-02-fetch-api-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

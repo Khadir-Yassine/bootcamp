@@ -12,3 +12,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Retrieve the data from the form, as soon as the "Submit" button is clicked.
 
 - Change the value of the state attributes, depending on the data fetched
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

@@ -14,7 +14,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Console.log all the numbers divisible by 23.
 
 4. At the end, console.log the sum of all numbers that are divisible by 23.
-  
+
   ```javascript
 Outcome : 0 23 46 69 92 115 138 161 184 207 230 253 276 299 322 345 
 368 391 414 437 460 483
@@ -22,7 +22,7 @@ Sum : 5313
 ```
 
 5. **Bonus**: Add a parameter **divisor** to the function.
-  
+
   ```javascript
 displayNumbersDivisible(divisor)
   Example:
@@ -33,3 +33,6 @@ and their sum
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

@@ -29,3 +29,5 @@ mongoose.connect('mongodb://localhost:27017/collegeDB')
 **✅ Success Criteria:** When you run `node app.js`, the terminal should print the "Connection Successful" message.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -18,3 +18,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Create 3 dogs and run them through your class.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

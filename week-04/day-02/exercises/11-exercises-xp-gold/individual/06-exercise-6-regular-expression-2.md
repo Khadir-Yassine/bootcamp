@@ -14,3 +14,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   - The first letter of each name should be upper cased.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

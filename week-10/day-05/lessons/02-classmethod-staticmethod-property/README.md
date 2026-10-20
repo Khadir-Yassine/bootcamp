@@ -327,3 +327,7 @@ print(b.val)
 print(c.val)
 print(a.filterint(100))
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

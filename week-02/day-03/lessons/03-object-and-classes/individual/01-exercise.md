@@ -95,3 +95,7 @@ console.log(d)
 //  speak: ƒ speak()
 //__proto__: Object
 ```
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

@@ -36,7 +36,7 @@ The steps
 *Syntax*
 
 ```javascript
-COPY [Table Name](Optional Columns)
+`COPY table_name (optional_columns)`
 FROM '[Absolute Path to File]'
 DELIMITER '[Delimiter Character]' CSV [HEADER];
 ```

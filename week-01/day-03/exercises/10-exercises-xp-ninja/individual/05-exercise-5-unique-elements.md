@@ -15,3 +15,6 @@ Example list=[1,2,3,3,3,3,4,5] newList = [1,2,3,4,5]
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

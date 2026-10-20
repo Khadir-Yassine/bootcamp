@@ -28,3 +28,5 @@ Create a button that when clicked on, calls a function that changes the value of
   **Expected output :**
   
   ![blue](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day1/Exercises%20XP/blue.png)
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

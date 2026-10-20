@@ -27,3 +27,7 @@ const pet = new Flamingo();
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

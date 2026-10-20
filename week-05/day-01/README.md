@@ -19,3 +19,8 @@ Connect Node.js to MongoDB through Mongoose, define schemas and models, and vali
 ## Challenges
 
 - [Daily Challenge](challenges/07-daily-challenge/README.md)
+
+## Worked solutions
+
+- [07-daily-challenge](challenges/07-daily-challenge/solutions.md)
+- [06-exercises-xp](exercises/06-exercises-xp/solutions.md)

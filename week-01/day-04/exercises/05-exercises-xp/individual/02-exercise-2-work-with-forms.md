@@ -27,7 +27,7 @@ Copy the code below, into a structured HTML file:
 3. Retrieve the inputs by their `name` attribute and console.log them.
 
 4. When the user submits the form (ie. `submit` event listener)
-  
+
   - use `event.preventDefault()`, why ?
   - get the values of the input tags,
   - make sure that they are not empty,
@@ -44,3 +44,6 @@ The output should be :
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

@@ -23,3 +23,5 @@ function AuthStatus() {
 ```
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/hooks.jsx).

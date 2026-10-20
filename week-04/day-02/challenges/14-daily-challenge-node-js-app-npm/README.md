@@ -84,3 +84,7 @@ By completing this challenge, you’ll have a Node.js application that demonstra
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

@@ -35,3 +35,5 @@ age: 27
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day4/Exercises%20XP%20Ninja/Exercise%203-%20Post%20JSON%20Data%20with%20React%20JS/output%20in%20url.jpg)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

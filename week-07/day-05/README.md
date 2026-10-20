@@ -25,3 +25,12 @@ Use React Router, keys and localStorage alongside data-driven interfaces and for
 ## Projects
 
 - [Mini Project : Users and Posts](projects/08-mini-project-users-and-posts/README.md) — 1 individual exercise documents
+
+## Working solutions
+
+- [Exercises XP Ninja](exercises/05-exercises-xp-ninja/solutions.md)
+- [Exercises XP](exercises/06-exercises-xp/solutions.md)
+- [Exercises XP Gold](exercises/07-exercises-xp-gold/solutions.md)
+- [Mini Project : Users and Posts](projects/08-mini-project-users-and-posts/solutions.md)
+- [Daily challenge #1 : Data and Server](challenges/09-daily-challenge-1-data-and-server/solutions.md)
+- [Daily challenge #2: Form](challenges/10-daily-challenge-2-form/solutions.md)

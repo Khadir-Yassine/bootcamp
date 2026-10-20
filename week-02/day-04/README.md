@@ -25,3 +25,11 @@ Connect form behavior to HTTP GET and POST, serialize data with JSON, and handle
 ## Projects
 
 - [Mini project - Random Quote Generator](projects/07-mini-project-random-quote-generator/README.md)
+
+## Worked solutions
+
+- [09-daily-challenge-html-form](challenges/09-daily-challenge-html-form/solutions.md)
+- [10-daily-challenge-true-or-false](challenges/10-daily-challenge-true-or-false/solutions.md)
+- [06-exercises-xp](exercises/06-exercises-xp/solutions.md)
+- [08-exercise-xp-gold](exercises/08-exercise-xp-gold/solutions.md)
+- [07-mini-project-random-quote-generator](projects/07-mini-project-random-quote-generator/solutions.md)

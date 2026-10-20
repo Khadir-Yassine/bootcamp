@@ -55,3 +55,7 @@ Create a Random Quote Generator game in Javascript.
 1. Create a form, that will filter the quotes depending on the name of the author. When the button of the form is clicked, display all the quotes from this specific author.
 
 2. Instead of showing all the quotes of the specific author. Show only one quote, and add a button “Previous” and a button “Next” that will display the next or previous quote.
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

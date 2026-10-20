@@ -18,3 +18,8 @@ Organize a realistic project around user and product models, authentication-read
 ## Projects
 
 - [Final Project (Capstone)](projects/05-final-project-capstone/README.md)
+
+## Worked solutions
+
+- [06-final-challenge-common-mistakes](challenges/06-final-challenge-common-mistakes/solutions.md)
+- [05-final-project-capstone](projects/05-final-project-capstone/solutions.md)

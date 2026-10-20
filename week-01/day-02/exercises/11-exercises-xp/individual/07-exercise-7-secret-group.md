@@ -15,3 +15,6 @@ const names = ["Jack", "Philip", "Sarah", "Amanda", "Bernard", "Kyle"];
 *Hint*: a string is an array of letters
 
 2. Console.log the name of their secret society. The output should be “ABJKPS”
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

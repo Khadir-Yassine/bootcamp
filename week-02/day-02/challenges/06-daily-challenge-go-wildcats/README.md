@@ -63,3 +63,7 @@ const winners = ["becky", "susy"]
 | Duration (approx) | Difficulty |
 | --- | --- |
 | 45 minutes | ⭐ |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

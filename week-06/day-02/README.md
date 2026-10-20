@@ -7,3 +7,7 @@ Connect Express request handling to persistent database operations. Follow the o
 ## Projects
 
 - [Mini Project](projects/01-mini-project/README.md) — 1 individual exercise documents
+
+## Worked solutions
+
+- [01-mini-project](projects/01-mini-project/solutions.md)

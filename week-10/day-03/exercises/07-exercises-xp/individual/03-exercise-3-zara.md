@@ -38,3 +38,7 @@ The values `type_of_clothes` and `international_competitors` should be a list. T
 13. Print the value of the key `number_stores`. What just happened ?
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

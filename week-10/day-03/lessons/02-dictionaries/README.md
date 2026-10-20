@@ -314,3 +314,7 @@ keys_to_remove = ["name", "salary"]
 ### **Conclusion**
 
 Dictionaries are a powerful tool in Python that provide efficient data manipulation capabilities. They are particularly useful in data analysis, web development, and any applications where quick lookup of configuration values or properties is required. Mastery of dictionaries enhances your ability to work with large datasets and develop complex, data-driven applications.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

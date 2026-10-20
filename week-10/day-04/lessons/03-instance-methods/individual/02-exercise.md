@@ -28,3 +28,7 @@ Computer.description(dell_computer, "Mark")
 # IS THE SAME AS:
 dell_computer.description("Mark")
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

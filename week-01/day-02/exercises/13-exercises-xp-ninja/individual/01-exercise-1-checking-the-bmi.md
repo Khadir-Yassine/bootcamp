@@ -11,7 +11,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - You must use functions to complete this exercise, to do so take a look at tomorrow’s lesson.
 
 1. Create two objects, each object should hold a person’s details. Here are the details:
-  
+
   1. FullName
   2. Mass
   3. Height
@@ -23,3 +23,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 4. Display the name of the person who has the largest BMI.
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

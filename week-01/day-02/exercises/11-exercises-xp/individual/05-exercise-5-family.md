@@ -14,3 +14,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Using a `for in` loop, console.log the values of the object.
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

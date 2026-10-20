@@ -22,3 +22,7 @@ p = Point(3,4)
 print("p.x is:", p.x)
 print("p.y is:", p.y)
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

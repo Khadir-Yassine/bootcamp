@@ -48,3 +48,7 @@ You will send data to an Express server with React and display it.
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

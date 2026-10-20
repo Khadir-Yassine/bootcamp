@@ -15,3 +15,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Console.log the Javascript Object that you receive.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

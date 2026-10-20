@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp-week-06-day-02-projects-01-mini-project-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test --test-isolation=none app.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.14.1"
+  }
+}

@@ -46,3 +46,7 @@ class Chartreux(Cat):
 4. Take all the cats for a walk, use the `walk` method.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

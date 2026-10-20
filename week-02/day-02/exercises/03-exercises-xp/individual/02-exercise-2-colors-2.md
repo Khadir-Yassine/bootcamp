@@ -18,3 +18,7 @@ const ordinal = ["th","st","nd","rd"];
 **Hint** : Use the array methods taught in class and ternary operator.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

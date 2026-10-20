@@ -164,3 +164,7 @@ Don’t forget to push
 One Last Thing: **Good luck!**
 
 ---
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

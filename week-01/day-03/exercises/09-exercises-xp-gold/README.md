@@ -161,3 +161,6 @@ Don’t forget to push to Github
 One Last Thing: **Good luck!**
 
 ---
+
+
+[Worked solutions](solutions.md)

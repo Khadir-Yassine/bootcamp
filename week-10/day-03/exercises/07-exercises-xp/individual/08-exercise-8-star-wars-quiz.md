@@ -47,3 +47,7 @@ data = [
 
 3. **Bonus** : display to the user the questions he answered wrong, his answer, and the correct answer.
 If he had more then 3 wrong answers, ask him to play again.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-8).

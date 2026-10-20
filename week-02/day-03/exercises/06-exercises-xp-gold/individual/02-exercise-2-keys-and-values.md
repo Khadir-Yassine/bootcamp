@@ -24,3 +24,7 @@ keysAndValues({ key1: true, key2: false, key3: undefined })
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

@@ -49,3 +49,7 @@ Think of a recent disagreement and answer:
 - What pressures might they have had?
 
 - How could I have responded differently?
+
+## Worked solutions
+
+[Read the worked example](solutions.md).

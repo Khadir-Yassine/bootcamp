@@ -14,7 +14,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 1. Create an input type text that takes/shows only letters. (ie. numbers and special characters won’t be accepted)
 
 2. **Hint**: use one of the following events to remove any character that is not a letter
-  
+
   - `keyup` event
   - or `keypress` event
   - or `keydown` event
@@ -29,3 +29,6 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 | Duration (approx) | Difficulty |
 | --- | --- |
 | > 40 minutes | ⭐ |
+
+
+[Worked solutions](solutions.md)

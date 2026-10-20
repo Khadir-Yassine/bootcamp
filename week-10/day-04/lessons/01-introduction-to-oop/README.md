@@ -223,3 +223,7 @@ p = Point(3,4)
 print("p.x is:", p.x)
 print("p.y is:", p.y)
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

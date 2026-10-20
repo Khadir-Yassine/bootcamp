@@ -74,3 +74,5 @@ Use this below code to show the Error
   ![3](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day3/Exercise%20XP/3.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/errors.jsx).

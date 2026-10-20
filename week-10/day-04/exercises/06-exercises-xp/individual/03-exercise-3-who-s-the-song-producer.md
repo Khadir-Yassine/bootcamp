@@ -25,3 +25,7 @@ all that glitters is gold
 and she’s buying a stairway to heaven
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

@@ -22,3 +22,6 @@ Other abilities of a Circle instance:
 - Be able to put them in a list and sort them
 
 - **Bonus (not mandatory)** : Install the [Turtle](https://realpython.com/beginners-guide-python-turtle/) module, and draw the sorted circles
+
+
+[Worked solutions](solutions.md)

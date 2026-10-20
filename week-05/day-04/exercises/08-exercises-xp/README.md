@@ -36,3 +36,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   6. All customers whose firstname is **not** ‘Scott’.
 
 ##
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

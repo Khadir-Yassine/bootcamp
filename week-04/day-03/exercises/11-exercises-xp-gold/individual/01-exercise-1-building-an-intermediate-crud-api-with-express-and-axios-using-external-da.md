@@ -44,3 +44,5 @@ In this exercise, you’ll create an intermediate-level CRUD (Create, Read, Upda
 3. Handle any errors that may occur during the Axios requests and send an appropriate error response to the client.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

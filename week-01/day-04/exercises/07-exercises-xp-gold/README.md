@@ -63,7 +63,7 @@ The one and only element on your HTML file should be:
 ```
 
 1. In your js file:
-  
+
   1. Create an empty array. For example: `let shoppingList=[]`.
   2. Create a form containing : a text input field and an “AddItem” button. Add this form to the DOM.
   3. Type what you need to buy in the text input field, then add the new item to the array as soon as you click on the “AddItem” button (**Hint**: create a function named `addItem()`).
@@ -83,3 +83,6 @@ The one and only element on your HTML file should be:
 One Last Thing: **Good luck!**
 
 ---
+
+
+[Worked solutions](solutions.md)

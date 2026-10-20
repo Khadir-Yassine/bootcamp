@@ -32,3 +32,7 @@ print("b:", b)
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

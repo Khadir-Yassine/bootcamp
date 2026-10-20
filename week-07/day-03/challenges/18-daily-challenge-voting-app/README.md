@@ -27,3 +27,7 @@ const [languages, setLanguages] = useState([
 ```
 
 2. Create a function that increases the state of the votes by one, when you click on a specific language button.
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

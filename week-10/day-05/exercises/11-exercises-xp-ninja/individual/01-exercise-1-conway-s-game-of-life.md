@@ -45,3 +45,7 @@ Notes:
 - **Bonus**: Make the game with ever expandable borders, make the maximum border size a very large number(10,000) so you won’t cause a memory overflow
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

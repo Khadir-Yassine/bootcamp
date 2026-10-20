@@ -48,3 +48,5 @@ Each todo should have the following properties:
 - Handle errors and edge cases, such as invalid IDs, missing data, etc.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

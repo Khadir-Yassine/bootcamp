@@ -18,3 +18,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 5. Use SQL to find all purchases. Join *purchases* with the *customers* table, so that Scott’s order will NOT appear. (Which kind of join should you use?)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

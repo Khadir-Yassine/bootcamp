@@ -16,3 +16,9 @@ Apply React in Snap Shot, Random Quote Generator and Calculator projects. Transl
 ## Quizzes
 
 - [React Quiz](quizzes/01-react-quiz/README.md)
+
+## Working solutions
+
+- [Daily Challenge: Calculator](challenges/04-daily-challenge-calculator/solutions.md)
+- [Mini-Project Day - Snap Shot](projects/02-mini-project-day-snap-shot/solutions.md)
+- [Mini-Project: Random Quote Generator](projects/03-mini-project-random-quote-generator/solutions.md)

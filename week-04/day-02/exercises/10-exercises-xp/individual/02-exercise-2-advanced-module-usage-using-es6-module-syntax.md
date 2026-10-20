@@ -24,3 +24,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Run `app.js` and confirm that the average age is correctly calculated and displayed.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

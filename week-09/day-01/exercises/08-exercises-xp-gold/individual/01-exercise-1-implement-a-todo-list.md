@@ -24,3 +24,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Use a unique `id` for each todo to identify them when removing.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/tasks.jsx).

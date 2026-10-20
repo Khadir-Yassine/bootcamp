@@ -138,7 +138,7 @@ These unique names are called **identifiers**.
 The general rules for constructing names for variables (unique identifiers) are:
 
 - Names can contain letters, digits, underscores, and dollar signs.
-  
+
   - You **cannot** use any other characters, including spaces, symbols, and punctuation marks.
 
 - Names must begin with a letter
@@ -148,7 +148,7 @@ The general rules for constructing names for variables (unique identifiers) are:
 - Names are case sensitive (y and Y are different variables)
 
 - You cannot use one of JavaScript’s *reserved words* as a variable name. All programming languages have a supply of words that are used internally by the language and that can’t be used for variable names because doing so would cause confusion
-  
+
   - [JavaScript’s keywords](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords)
   - [JavaScript’s reserved words](https://flaviocopes.com/javascript-reserved-words/)
 
@@ -465,3 +465,6 @@ let op = Boolean(10 > 9)   // op returns true
 The special null value does not belong to any of the types described above.
 
 It forms a separate type of its own which contains only the null value
+
+
+[Worked solutions](solutions.md)

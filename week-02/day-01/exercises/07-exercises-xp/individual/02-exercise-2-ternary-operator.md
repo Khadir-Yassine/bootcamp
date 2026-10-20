@@ -24,3 +24,7 @@ function winBattle(){
 4. Console.log the `experiencePoints` variable.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

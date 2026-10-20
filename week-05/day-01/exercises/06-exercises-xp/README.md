@@ -102,3 +102,7 @@ testStudent();
 - Did you wrap the ID or data operations in `try/catch`?
 
 - Does your terminal show the custom validation error when the age is too low?
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

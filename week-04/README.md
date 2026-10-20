@@ -15,3 +15,5 @@ Progress from Fetch and async/await to server-side JavaScript, NPM, HTTP APIs an
 | [5](day-05/README.md) | Advanced MongoDB & Data Modeling | 6 | [Summary](day-05/summary.md) |
 | [6](day-06/README.md) | Mini Projects | 1 | [Summary](day-06/summary.md) |
 | [7](day-07/README.md) | Mini Projects | 1 | [Summary](day-07/summary.md) |
+
+[Worked solutions](SOLUTIONS.md) — runnable code, SQL, and English explanations.

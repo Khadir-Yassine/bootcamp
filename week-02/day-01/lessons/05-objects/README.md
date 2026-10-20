@@ -190,3 +190,7 @@ for (const item in person) {
   console.log(item);
 }
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

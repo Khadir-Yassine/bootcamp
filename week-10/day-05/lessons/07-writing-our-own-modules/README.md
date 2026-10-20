@@ -238,3 +238,7 @@ $ pip freeze > requirements.txt
 ```
 
 This command creates the `requirements.txt` in the same way `pipreqs` would write the file.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

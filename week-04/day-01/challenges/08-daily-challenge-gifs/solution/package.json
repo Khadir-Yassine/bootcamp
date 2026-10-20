@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-01-challenges-08-daily-challenge-gifs-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

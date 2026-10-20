@@ -12,3 +12,6 @@ Combine DOM manipulation, events and JavaScript logic in the Coloring Game and D
 ## Quizzes
 
 - [Javascript Quiz](quizzes/01-javascript-quiz/README.md)
+
+
+[Runnable solutions for this week](../SOLUTIONS.md)

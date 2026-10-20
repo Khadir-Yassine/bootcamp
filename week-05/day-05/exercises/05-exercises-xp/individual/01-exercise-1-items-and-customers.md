@@ -17,3 +17,5 @@ We will work on the *public* database that we created yesterday.
   4. All last names (no other columns!), in reverse alphabetical order (Z-A)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

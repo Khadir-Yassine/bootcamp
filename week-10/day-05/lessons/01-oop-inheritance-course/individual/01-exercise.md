@@ -43,3 +43,7 @@ print(nc.diameter)
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

@@ -100,3 +100,7 @@ Q4. What will be the OUTPUT of the following statement?
 | Duration (approx) | Difficulty |
 | --- | --- |
 | 40 minutes | ⭐ |
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

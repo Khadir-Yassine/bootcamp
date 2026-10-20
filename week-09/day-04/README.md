@@ -15,3 +15,9 @@ Distinguish state from props and connect clicks and inputs to state changes. Cou
 - [Add State to a Component](exercises/04-add-state-to-a-component/README.md)
 - [Create Interactive Elements (e.g., Counter, Toggle)](exercises/05-create-interactive-elements-e-g-counter-toggle/README.md)
 - [Build an Interactive Feature (e.g., Task List or Counter App)](exercises/06-build-an-interactive-feature-e-g-task-list-or-counter-app/README.md)
+
+## Working solutions
+
+- [Add State to a Component](exercises/04-add-state-to-a-component/solutions.md)
+- [Create Interactive Elements (e.g., Counter, Toggle)](exercises/05-create-interactive-elements-e-g-counter-toggle/solutions.md)
+- [Build an Interactive Feature (e.g., Task List or Counter App)](exercises/06-build-an-interactive-feature-e-g-task-list-or-counter-app/solutions.md)

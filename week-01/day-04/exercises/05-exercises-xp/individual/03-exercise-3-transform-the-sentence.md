@@ -28,3 +28,6 @@ In the JS file:
 5. Call the function `highlight()` on **mouseover** (ie. when the mouse pointer is moved onto the paragraph), and the function `returnItemsToDefault()` on **mouseout** (ie. when the mouse pointer is moved out of the paragraph). Look at [this example](http://www.java2s.com/example/javascript/dom-event/addeventlistenermouseover-mouseover.html)
 
 ---
+
+
+[Worked solutions](../solutions.md)

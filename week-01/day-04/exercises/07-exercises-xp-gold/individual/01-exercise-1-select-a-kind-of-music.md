@@ -22,3 +22,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. The newly added option should be selected by default.
 
 ---
+
+
+[Worked solutions](../solutions.md)

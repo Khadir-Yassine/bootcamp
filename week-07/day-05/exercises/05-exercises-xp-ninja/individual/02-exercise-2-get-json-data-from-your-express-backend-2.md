@@ -55,3 +55,5 @@ npm run dev
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day2/Exercises%20XP%20Ninja/Exercise%202.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

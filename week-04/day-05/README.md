@@ -18,3 +18,8 @@ Explore ObjectId, MongoDB data types, indexes and schema design. Compare embedde
 ## Challenges
 
 - [Daily Challenge](challenges/06-daily-challenge/README.md)
+
+## Worked solutions
+
+- [06-daily-challenge](challenges/06-daily-challenge/solutions.md)
+- [05-exercises-xp](exercises/05-exercises-xp/solutions.md)

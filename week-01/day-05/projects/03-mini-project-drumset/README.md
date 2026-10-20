@@ -40,7 +40,7 @@ This looks complex, but it’s pretty simple.
 2. Look up how to play audio in HTML and JS. (w3schools)
 
 3. Add event listeners for keyboard and/or mouse clicks.
-  
+
   - for keyboard events, you can get the key by looking at the property **keyCode** of the **event object**
   - for mouse click events, you can get the key by looking at the **this** object.
 
@@ -67,3 +67,6 @@ Get started with [**this repository**](https://github.com/devtlv/drumset_setup)
 One Last Thing: **Good luck!**
 
 ---
+
+
+[Worked solutions](solutions.md)

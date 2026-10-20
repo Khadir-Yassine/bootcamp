@@ -26,3 +26,14 @@ Run JavaScript outside the browser, organize modules, and manage packages with N
 
 - [More Node.js Challenges](challenges/13-more-node-js-challenges/README.md) — 3 individual exercise documents
 - [Daily Challenge: Node.js App & NPM](challenges/14-daily-challenge-node-js-app-npm/README.md)
+
+## Worked solutions
+
+- [13-more-node-js-challenges](challenges/13-more-node-js-challenges/solutions.md)
+- [14-daily-challenge-node-js-app-npm](challenges/14-daily-challenge-node-js-app-npm/solutions.md)
+- [10-exercises-xp](exercises/10-exercises-xp/solutions.md)
+- [11-exercises-xp-gold](exercises/11-exercises-xp-gold/solutions.md)
+- [12-exercises-xp-ninja](exercises/12-exercises-xp-ninja/solutions.md)
+- [06-module-system](lessons/06-module-system/solutions.md)
+- [07-node-package-manager](lessons/07-node-package-manager/solutions.md)
+- [08-core-modules](lessons/08-core-modules/solutions.md)

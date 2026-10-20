@@ -46,3 +46,5 @@ You will get JSON Data from your Express Backend and output the result with Reac
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day2/Exercises%20XP%20Ninja/Exercise%201.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

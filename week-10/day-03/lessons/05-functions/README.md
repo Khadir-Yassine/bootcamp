@@ -420,3 +420,7 @@ def calculation(a, b):
 res = calculation(40, 10)
 print(res)
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

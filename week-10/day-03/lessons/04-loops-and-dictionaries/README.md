@@ -216,3 +216,7 @@ Implement a loop that asks for user input to add dictionary entries until 'quit'
 ### **Conclusion**
 
 Through this lesson, you’ve learned how to effectively combine loops with dictionaries to manage and manipulate data dynamically. These skills will help you build more robust and interactive Python applications that efficiently handle various data operations.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

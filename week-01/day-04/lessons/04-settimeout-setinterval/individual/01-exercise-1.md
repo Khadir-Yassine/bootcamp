@@ -50,3 +50,6 @@ function myStopFunction() {
 ```
 
 [**timer functions to create animations - Codepen Here**](https://codepen.io/avnermaman/pen/xxGNZeV?editors=1111)
+
+
+[Worked solutions](../solutions.md)

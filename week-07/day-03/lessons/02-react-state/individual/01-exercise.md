@@ -12,3 +12,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - In the Actor Component render the state attributes
 
 - Call the Actor component in the App Component
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

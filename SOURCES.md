@@ -11,3 +11,8 @@ Original documentation, images, videos, sample repositories and assignment refer
 ## Publication Cleanup
 
 Private course-session links, personal quiz results and extraction metadata are excluded from this public edition. Example API query tokens are replaced with explicit placeholders. Original binary and HTML exports remain in the separate local backup.
+
+
+## Worked Implementations
+
+Runnable solutions and English explanations were prepared for this study repository. They accompany the original assignment briefs and are not official course answer keys. Sample reflections are illustrative rather than personal claims. The Drumset uses locally synthesized WAV sounds created for this repository. External dependencies retain their own licenses.

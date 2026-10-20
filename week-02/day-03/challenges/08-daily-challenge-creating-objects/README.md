@@ -36,3 +36,7 @@ Think of the best data structure to save this information within the array.
 | Duration (approx) | Difficulty |
 | --- | --- |
 | > 45 minutes | ⭐ |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-week-04-day-06-projects-01-mini-project-ideas-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node seed.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2",
+    "bcrypt": "^6.0.0"
+  }
+}

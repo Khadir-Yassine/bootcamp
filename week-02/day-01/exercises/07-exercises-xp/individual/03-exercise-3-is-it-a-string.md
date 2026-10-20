@@ -20,3 +20,7 @@ console.log(isString([1, 2, 4, 0]));
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

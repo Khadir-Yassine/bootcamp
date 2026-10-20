@@ -19,3 +19,7 @@ const colors = ["Blue", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow"];
 **Hint** : Use the array methods taught in class. Look at the lesson Array Methods.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-week-04-day-02-exercises-10-exercises-xp-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node 01-products/shop.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "chalk": "^4.1.2"
+  }
+}

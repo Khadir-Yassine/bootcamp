@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-week-05-day-02-exercises-05-exercises-xp-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2"
+  }
+}

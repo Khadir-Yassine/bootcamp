@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 1. Create a one line function (ie. an arrow function) that receives two numbers as parameters and returns the sum.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-4).

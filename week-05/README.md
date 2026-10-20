@@ -15,3 +15,5 @@ Develop model-driven MongoDB applications with Mongoose, then study relational d
 | [5](day-05/README.md) | Database Concepts #1 | 8 | [Summary](day-05/summary.md) |
 | [6](day-06/README.md) | Remote Learning | 4 | [Summary](day-06/summary.md) |
 | [7](day-07/README.md) | Remote Learning | 0 | [Summary](day-07/summary.md) |
+
+[Worked solutions](SOLUTIONS.md) — runnable code, SQL, and English explanations.

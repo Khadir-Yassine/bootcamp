@@ -77,3 +77,7 @@ If you want to truly stand out, implement these two features:
 ### **💡 Final Advice for Your Career**
 
 When you show this project to a future employer, don't just show them the code. Tell them **why** you chose to reference the users instead of embedding them. That architectural reasoning is what separates a Senior Developer from a Junior.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

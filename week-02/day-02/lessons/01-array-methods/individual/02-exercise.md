@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 Check if **at least** one element of the array starts with the letter 'h'
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

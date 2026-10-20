@@ -31,3 +31,7 @@ This is no random family they are an incredible family, therefore the `members` 
 6. Use the `born` method inherited from the `Family` class to add Baby Jack with the following power: “Unknown Power”.
 
 7. Call the `incredible_presentation` method again.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-5).

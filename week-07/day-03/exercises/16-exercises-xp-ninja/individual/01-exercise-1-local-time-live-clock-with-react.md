@@ -28,3 +28,5 @@ Take a look at this [tutorial](https://medium.com/@vishalkalia.er/what-is-the-us
 6. Import the `Clock` component in the `App.js` file.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/forms.jsx).

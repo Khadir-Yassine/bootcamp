@@ -22,3 +22,5 @@ The API should allow the manager to:
 The application must follow **REST API conventions** and use **Node.js, Express.js, and PostgreSQL**.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -44,3 +44,7 @@ For this challenge, you will receive two numbers from an input element and add b
 ### **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

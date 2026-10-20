@@ -13,3 +13,7 @@ At the end of the day, answer:
 - How did I react?
 
 - What could I do differently next time?
+
+## Worked solution
+
+[Read the worked example](../solutions.md).

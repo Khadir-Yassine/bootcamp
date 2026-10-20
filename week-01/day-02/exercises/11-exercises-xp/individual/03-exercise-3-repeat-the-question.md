@@ -14,3 +14,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 *Tip* : Which `while` loop is more relevant for this situation?
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

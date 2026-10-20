@@ -18,3 +18,7 @@ Create a function that receives a weight in kilograms and returns it in grams. (
 4. Finally, use a one line arrow function and invoke it.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-5).

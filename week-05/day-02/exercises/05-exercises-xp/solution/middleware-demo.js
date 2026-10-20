@@ -1,0 +1,2 @@
+const mongoose=require('mongoose'),connect=require('./config/connect'),Student=require('./models/Student');
+(async()=>{try{await connect();let student=await Student.findOne({email:'middleware@example.com'});if(!student)student=new Student({name:'Lina',email:'middleware@example.com',age:22});student.name='Lina '+Date.now();await student.save();console.log({name:student.name,updatedAt:student.updatedAt});}finally{await mongoose.disconnect();}})().catch(e=>{console.error(e.message);process.exitCode=1;});

@@ -12,3 +12,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 2. Use `Promise.reject(error)` to create a promise that will reject itself with the string “Boo!”
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

@@ -16,3 +16,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
   - Before you start, could there be a shortcut to getting this information? Maybe a view?
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

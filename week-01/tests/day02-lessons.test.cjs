@@ -1,0 +1,13 @@
+const test=require('node:test');const assert=require('node:assert/strict');
+const intro=require('../day-02/lessons/01-introduction-to-javascript/solutions.js');
+const objects=require('../day-02/lessons/04-objects/solutions.js');
+const switches=require('../day-02/lessons/05-switch-statement/solutions.js');
+const loops=require('../day-02/lessons/06-loops/solutions.js');
+const pets=require('../day-02/lessons/08-arrays/solutions.js');
+const car=require('../day-02/lessons/09-conditionals/solutions.js');
+test('address concatenation and both possible ages',()=>{assert.equal(intro.addressExercise().globalAddress,'I live in 55 av Bosquet, in France');assert.deepEqual(intro.ageExercise(2000,2030),{possibleAges:[29,30],message:'I will be 30 in 2030'});});
+test('database and newsfeed object structure',()=>{const r=objects.objectExercise();assert.equal(r.database.length,1);assert.strictEqual(r.database[0],r.user);assert.equal(r.newsfeed.length,3);for(const item of r.newsfeed){assert.equal(typeof item.username,'string');assert.equal(typeof item.timeline,'string');}});
+test('switch strict matching and grouped branches',()=>{assert.equal(switches.firstSwitch(),'Exactly!');assert.equal(switches.firstSwitch('4'),"I don't know such values");assert.deepEqual(switches.groupedSwitch(),['Right!']);assert.equal(switches.groupedSwitch(3).length,2);assert.deepEqual(switches.groupedSwitch(5),switches.groupedSwitch(3));});
+test('inclusive loop and continue versus break',()=>{const lines=loops.oddOrEven();assert.equal(lines.length,16);assert.equal(lines[0],'0 is even');assert.equal(lines[15],'15 is odd');assert.deepEqual(loops.capitalizeNames(),['John','Sarah','Rudolf']);assert.deepEqual(loops.beforeFirstNonString(),['john','sarah']);});
+test('pets changes preserve unrelated animals and length',()=>assert.deepEqual(pets.petsExercise(),{dog:'dog',pets:['cat','dog','fish','cow','horse'],length:5}));
+test('keyless car numeric conversion and boundary cases',()=>{assert.match(car.drivingMessage('17'),/too young/);assert.match(car.drivingMessage('18'),/first year/);assert.equal(car.drivingMessage('19'),'Powering On. Enjoy the ride!');for(const value of ['', 'abc',-1,Infinity])assert.equal(car.drivingMessage(value),'Please enter a valid age.');assert.equal(car.drivingMessage(null),'Cancelled.');});

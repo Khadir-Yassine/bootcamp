@@ -38,3 +38,7 @@ The number of candles on the cake should be the last number of the users age, if
 | Duration (approx) | Difficulty |
 | --- | --- |
 | 1 hour | ⭐⭐ |
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

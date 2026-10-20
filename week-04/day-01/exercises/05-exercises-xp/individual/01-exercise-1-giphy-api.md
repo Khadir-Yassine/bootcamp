@@ -44,3 +44,5 @@ Use the `fetch()` method to make a GET request to the Giphy API and Console.log 
 ![output](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%205/Day%202/Exercise%20XP/Screenshot%20from%202020-06-14%2017-23-24.png)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

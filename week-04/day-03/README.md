@@ -25,3 +25,14 @@ Create HTTP servers and Express routes, accept route parameters and POST request
 ## Challenges
 
 - [Daily Challenge: Emoji Guessing Game](challenges/13-daily-challenge-emoji-guessing-game/README.md)
+
+## Worked solutions
+
+- [13-daily-challenge-emoji-guessing-game](challenges/13-daily-challenge-emoji-guessing-game/solutions.md)
+- [10-exercises-xp](exercises/10-exercises-xp/solutions.md)
+- [11-exercises-xp-gold](exercises/11-exercises-xp-gold/solutions.md)
+- [12-exercises-xp-ninja](exercises/12-exercises-xp-ninja/solutions.md)
+- [04-create-your-first-http-server](lessons/04-create-your-first-http-server/solutions.md)
+- [05-introduction-to-express](lessons/05-introduction-to-express/solutions.md)
+- [06-route-parameters](lessons/06-route-parameters/solutions.md)
+- [07-crud-api](lessons/07-crud-api/solutions.md)

@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-04-challenges-06-daily-challenge-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "mongosh --file solution.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

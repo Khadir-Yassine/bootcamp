@@ -15,3 +15,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   - The `machineStatus` changes to "Brewing" (simulating the Tuya Fingerbot press), waits 3 seconds, changes to "Delivering" (simulating the Robotic Arm), and then goes back to "Idle".
 
 4. **Conditional Rendering:** If `inventoryLevel` hits 0, the "Simulate Order" button disappears and is replaced by a red warning: "Out of Cups! Please Restock."
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

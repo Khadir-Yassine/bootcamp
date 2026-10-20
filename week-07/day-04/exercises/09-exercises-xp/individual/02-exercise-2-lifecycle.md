@@ -70,3 +70,5 @@ The `render()` method is required and will always be called, the others are opti
 1. Use the `getSnapshotBeforeUpdate()` method, add a `console.log("in getSnapshotBeforeUpdate")`. Open the Dev Tools, to see when this message is displayed.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/errors.jsx).

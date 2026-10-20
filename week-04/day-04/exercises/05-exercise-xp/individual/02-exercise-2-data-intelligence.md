@@ -24,3 +24,5 @@ Student **"Yassine"** just moved from **Rabat** to **Casablanca** for an interns
 **"Sophia"** has successfully graduated and is leaving the registry. Delete her document from the collection.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -1,5 +1,8 @@
 # Exercises XP Ninja
 
+[Worked solutions](solutions.md) · [Runnable JavaScript](solutions.js)
+
+
 Course source: [Geeks Institute](https://www.geeks.institute/).
 ## **What we will learn:**
 
@@ -19,7 +22,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 - You must use functions to complete this exercise, to do so take a look at tomorrow’s lesson.
 
 1. Create two objects, each object should hold a person’s details. Here are the details:
-  
+
   1. FullName
   2. Mass
   3. Height

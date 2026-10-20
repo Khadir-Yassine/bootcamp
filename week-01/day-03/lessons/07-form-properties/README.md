@@ -518,3 +518,6 @@ In a JS file, write a JavaScript function to :
 | `input:valid` | Selects all input elements with a valid value | [:valid](https://www.w3schools.com/cssref/sel_valid.asp) |
 | `input:optional` | Selects input elements with no “required” attribute | [:optional](https://www.w3schools.com/cssref/sel_optional.asp) |
 | `input:invalid` | Selects all input elements with an invalid value | [:invalid](https://www.w3schools.com/cssref/sel_invalid.asp) |
+
+
+[Worked solutions](solutions.md)

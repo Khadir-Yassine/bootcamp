@@ -1,0 +1,2 @@
+const {test}=require('node:test'),assert=require('node:assert/strict'),Task=require('./models/Task');
+test('task defaults and constraints',()=>{assert(new Task({}).validateSync().errors.title);assert(new Task({title:'x',status:'in-progress'}).validateSync().errors.status);const task=new Task({title:'Study'});assert.equal(task.status,'pending');assert(task.createdAt instanceof Date);assert.equal(task.validateSync(),undefined);});

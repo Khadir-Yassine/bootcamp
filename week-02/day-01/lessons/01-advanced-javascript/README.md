@@ -303,3 +303,7 @@ not ${2 * a + b}.`);
 // "Fifteen is 15 and
 // not 20."
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

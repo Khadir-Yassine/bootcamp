@@ -1,0 +1,2 @@
+const express=require('express'),{createController}=require('../controllers/menuController');
+exports.createRouter=model=>{const router=express.Router(),controller=createController(model);router.get('/menu',controller.getMenu);router.get('/menu/:name',controller.getMenuItem);router.post('/menu',controller.addMenuItem);router.put('/menu/:id',controller.updateMenuItem);router.delete('/menu/:id',controller.deleteMenuItem);return router;};

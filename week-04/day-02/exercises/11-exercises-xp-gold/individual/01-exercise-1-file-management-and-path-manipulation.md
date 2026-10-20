@@ -31,3 +31,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 9. Run `app.js` using Node.js and verify that the file’s existence, size, and creation time are displayed in the terminal.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

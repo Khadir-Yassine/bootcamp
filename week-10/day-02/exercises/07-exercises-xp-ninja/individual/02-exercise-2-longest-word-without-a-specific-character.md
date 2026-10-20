@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 2. Each time a user successfully sets a new longest sentence, print a congratulations message.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

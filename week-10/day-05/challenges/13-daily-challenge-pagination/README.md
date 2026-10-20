@@ -147,3 +147,7 @@ print(p.current_idx + 1)
 p.go_to_page(0)
 # Raises ValueError
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

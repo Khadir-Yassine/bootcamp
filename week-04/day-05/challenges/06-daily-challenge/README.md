@@ -70,3 +70,7 @@ A great architect must justify their choices. Here is why we structured DevBlog 
 > 
 > 
 > If a post becomes world-famous and gets **50,000+ comments**, the document might hit the **16MB limit**. In a real-world professional app, if we expect that many comments, we would move comments to their own collection (Referencing). But for a standard blog, **Embedding** is the performance king!
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

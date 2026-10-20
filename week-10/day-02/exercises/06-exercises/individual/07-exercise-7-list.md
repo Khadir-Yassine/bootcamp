@@ -22,3 +22,7 @@ Using this list `basket = ["Banana", "Apples", "Oranges", "Blueberries"]`;
 - `Print(basket)`
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-7).

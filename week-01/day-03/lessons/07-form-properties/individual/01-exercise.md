@@ -28,3 +28,6 @@ In a JS file, write a JavaScript function to :
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

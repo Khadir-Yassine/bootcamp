@@ -20,3 +20,6 @@ let names= ["john", "sarah", 23, "Rudolf",34]
 - if the item is not a string, go out of the loop.
 
 - if the item is a string, display it.
+
+
+[Worked solutions](../solutions.md)

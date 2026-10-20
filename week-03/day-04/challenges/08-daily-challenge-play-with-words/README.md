@@ -150,3 +150,7 @@ Example:
 ## **Submit your Daily Challenge :**
 
 Don’t forget to push to Github
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

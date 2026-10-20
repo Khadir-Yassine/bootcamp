@@ -26,3 +26,5 @@ Given two tables, `customers` and `orders`, write a SQL query using a subquery t
 - `order_value` (decimal)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

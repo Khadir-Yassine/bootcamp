@@ -39,3 +39,6 @@ that will get displayed as:
 | Duration (approx) | Difficulty |
 | --- | --- |
 | >1h15 | ⭐⭐ |
+
+
+[Worked solutions](solutions.md)

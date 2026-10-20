@@ -29,3 +29,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Run `app.js` using Node.js and verify that the formatted date is displayed in the terminal.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

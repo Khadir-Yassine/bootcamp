@@ -62,3 +62,7 @@ Once you finish your models, try to answer these questions by running queries in
 - **Blog:** "Can I see the username of the person who wrote the 3rd comment on Post Y?"
 
 - **E-Commerce:** "If I delete a Product, does it stay safely inside the Order history?"
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

@@ -14,3 +14,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 4. Call the function
 
 5. In the global scope, console.log the result of the function
+
+
+[Worked solutions](../solutions.md)

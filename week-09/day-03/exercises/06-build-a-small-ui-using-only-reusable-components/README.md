@@ -18,3 +18,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   - "Dobot Arm" (Online, Green)
   - "Tuya Fingerbot" (Asleep, Yellow)
   - "Coffee Machine" (Offline, Red)
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

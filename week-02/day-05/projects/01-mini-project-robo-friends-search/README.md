@@ -156,3 +156,7 @@ Don’t forget to push to
 ---
 
 One Last Thing: **Good luck!**
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

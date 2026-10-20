@@ -38,3 +38,7 @@ Don’t forget to push to Github
 ---
 
 One Last Thing: **Good luck!**
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

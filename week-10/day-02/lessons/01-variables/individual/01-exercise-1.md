@@ -22,3 +22,7 @@ Use f-strings to print a message saying:
 Use `str.format()` to print the same message.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

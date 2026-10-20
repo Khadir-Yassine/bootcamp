@@ -39,3 +39,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 6. **Bonus**: Instead of asking for the season, ask the user for the number of the month (1 = January, 12 = December). Determine the season according to the month.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-7).

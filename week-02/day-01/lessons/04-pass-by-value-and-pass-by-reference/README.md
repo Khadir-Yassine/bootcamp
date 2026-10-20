@@ -60,3 +60,7 @@ When you compare objects with JavaScript’s == operator, it **compares by ident
 - it will produce `true` only if both objects are precisely the same value.
 
 - Comparing different objects will return `false`, even if they have identical properties.
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

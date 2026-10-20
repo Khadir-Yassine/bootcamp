@@ -12,3 +12,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 2. Console.log all even numbers from 0 to the random number.
 
 ---
+
+
+[Worked solutions](../solutions.md)

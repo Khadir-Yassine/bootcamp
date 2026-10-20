@@ -38,3 +38,5 @@ Imagine you’re building a command-line utility that performs various tasks usi
 12. Run your utility using Node.js and verify that you can execute different commands from the command line.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

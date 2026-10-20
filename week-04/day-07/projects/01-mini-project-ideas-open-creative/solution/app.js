@@ -1,0 +1,4 @@
+const mongoose=require('mongoose'),connect=require('./config/connect'),{Expense}=require('./models');
+async function getPaginatedData(userId,category,pageNumber=1){if(!mongoose.isValidObjectId(userId))throw new Error('Valid user ID required');if(!Number.isSafeInteger(pageNumber)||pageNumber<1)throw new Error('Positive integer page required');const query={userId};if(category)query.category=category;return Expense.find(query).sort({createdAt:-1,_id:1}).skip((pageNumber-1)*10).limit(10).lean();}
+async function main(){try{await connect();const [userId,category='Food',page='1']=process.argv.slice(2);console.log(await getPaginatedData(userId,category,Number(page)));console.log(await Expense.aggregate([{$match:{userId:new mongoose.Types.ObjectId(userId)}},{$group:{_id:'$category',total:{$sum:'$amount'}}}]));}finally{await mongoose.disconnect();}}
+if(require.main===module)main().catch(e=>{console.error(e.message);process.exitCode=1;});module.exports={getPaginatedData};

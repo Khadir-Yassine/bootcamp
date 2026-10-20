@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp-week-04-day-03-exercises-10-exercises-xp-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node blog-server.js",
+    "test": "node --test --test-isolation=none crud.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "axios": "^1.8.4"
+  }
+}

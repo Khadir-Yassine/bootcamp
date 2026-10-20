@@ -21,3 +21,6 @@ Handle browser events, validate form input, and schedule work with setTimeout an
 
 - [Daily challenge: Tell the story](challenges/08-daily-challenge-tell-the-story/README.md)
 - [Daily Challenge : Letters](challenges/09-daily-challenge-letters/README.md)
+
+
+[Runnable solutions for this week](../SOLUTIONS.md)

@@ -30,3 +30,14 @@ Explore state updates, function and class components, lifecycle behavior, useSta
 ## Challenges
 
 - [Daily Challenge: Voting app](challenges/18-daily-challenge-voting-app/README.md)
+
+## Working solutions
+
+- [Exercise XP GOLD #2 : React & Forms](exercises/14-exercise-xp-gold-2-react-forms/solutions.md)
+- [Exercises XP](exercises/15-exercises-xp/solutions.md)
+- [Exercises XP Ninja](exercises/16-exercises-xp-ninja/solutions.md)
+- [Exercises XP GOLD](exercises/17-exercises-xp-gold/solutions.md)
+- [Daily Challenge: Voting app](challenges/18-daily-challenge-voting-app/solutions.md)
+- [React State](lessons/02-react-state/solutions.md)
+- [React Lifecycle](lessons/07-react-lifecycle/solutions.md)
+- [Changing the state of a component](lessons/08-changing-the-state-of-a-component/solutions.md)

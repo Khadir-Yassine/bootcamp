@@ -14,3 +14,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 3. Write a method that prints the geometrical definition of a circle.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

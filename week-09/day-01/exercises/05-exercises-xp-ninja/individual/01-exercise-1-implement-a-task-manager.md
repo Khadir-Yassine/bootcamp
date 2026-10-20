@@ -26,3 +26,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Use a unique `id` for each task to identify and remove them.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/tasks.jsx).

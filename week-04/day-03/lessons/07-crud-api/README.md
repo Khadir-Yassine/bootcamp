@@ -225,3 +225,7 @@ module.exports = posts;
 13. Run your `app.js` file using Node.js: `node app.js`.
 
 14. Use tools like `curl` or Postman to test the CRUD operations on the `/api/posts` endpoints, similar to the previous exercise.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

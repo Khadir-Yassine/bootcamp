@@ -28,3 +28,6 @@ switch (a) {
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

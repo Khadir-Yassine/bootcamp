@@ -190,3 +190,7 @@ Download this text file `http://www.practicepython.org/assets/nameslist.txt` and
 - Append your first name at the end of the file
 
 - Append "SkyWalker" next to each first name "Luke"
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

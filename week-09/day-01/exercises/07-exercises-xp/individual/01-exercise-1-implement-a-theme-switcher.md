@@ -26,3 +26,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Apply different styles (CSS or inline styles) to your components based on the current theme.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/hooks.jsx).

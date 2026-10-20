@@ -214,3 +214,7 @@ You will use nested functions, to open a new juice bar.
 | Duration (approx) |
 | --- |
 | > 2h |
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

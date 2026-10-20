@@ -16,3 +16,6 @@ let numbers = [123, 8409, 100053, 333333333, 7]
 2. Each time you loop console.log `true` or `false`.
 
 ---
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

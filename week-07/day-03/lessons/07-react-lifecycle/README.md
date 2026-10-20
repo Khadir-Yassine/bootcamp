@@ -101,3 +101,7 @@ export default Sunrise;
 - Use an API that retrieves a list (Star Wars API, Robot API or else)
 
 - Display the list using Javascript array methods
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

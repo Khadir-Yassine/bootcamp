@@ -19,3 +19,7 @@ class PrintList():
 print_list_instance = PrintList(["a", "b", "c"])
 print(print_list_instance.__repr__())
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

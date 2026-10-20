@@ -30,3 +30,7 @@ class A(B):
 ```
 
 The key difference between these two code snippets is how class A calls the `__init__` method of its parent class B.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

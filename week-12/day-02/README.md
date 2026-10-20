@@ -16,3 +16,6 @@ Apply Python logic and OOP in Rock Paper Scissors, Tic Tac Toe and the Circle ch
 ## Quizzes
 
 - [Quiz](quizzes/01-quiz/README.md)
+
+
+[Runnable solutions for this week](../SOLUTIONS.md)

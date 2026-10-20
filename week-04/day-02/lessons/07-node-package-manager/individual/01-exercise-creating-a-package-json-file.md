@@ -22,3 +22,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Verify that your application runs and the welcome message is displayed in the terminal.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -18,3 +18,8 @@ Understand MongoDB documents and collections, then practice create, read, update
 ## Challenges
 
 - [Daily Challenge](challenges/06-daily-challenge/README.md)
+
+## Worked solutions
+
+- [06-daily-challenge](challenges/06-daily-challenge/solutions.md)
+- [05-exercise-xp](exercises/05-exercise-xp/solutions.md)

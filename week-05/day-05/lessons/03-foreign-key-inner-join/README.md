@@ -103,3 +103,7 @@ if we run this, we get:
 - Insert some record to the producers table
 
 - Display movies and their producers using an INNER JOIN
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

@@ -10,3 +10,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - If the person that the user types is not found in the dictionary, print an error message (“Sorry, we don’t have the birthday information for `person's name`”).
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

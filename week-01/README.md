@@ -15,3 +15,6 @@ Build a foundation in JavaScript values, control flow and functions, then connec
 | [5](day-05/README.md) | Mini-Project Day | 3 | [Summary](day-05/summary.md) |
 | [6](day-06/README.md) | Remote Learning | 0 | [Summary](day-06/summary.md) |
 | [7](day-07/README.md) | Remote Learning | 0 | [Summary](day-07/summary.md) |
+
+
+[Runnable solutions](SOLUTIONS.md)

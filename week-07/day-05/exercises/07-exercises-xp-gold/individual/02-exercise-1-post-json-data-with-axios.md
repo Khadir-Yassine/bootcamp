@@ -31,3 +31,5 @@ To learn more about Axios go [here](https://alligator.io/react/axios-react/)
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day2/Exercises%20XP%20Gold/Exercise%202.jpg)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

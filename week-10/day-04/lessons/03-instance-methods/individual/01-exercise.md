@@ -25,3 +25,7 @@ first_person.show_details()
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

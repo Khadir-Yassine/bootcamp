@@ -99,3 +99,7 @@ Now that you've finished, you should be able to:
 - Connect a **Node.js** app to MongoDB using **Mongoose**.
 
 - Enforce data rules using **Schemas** and **Validation**.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

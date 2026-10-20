@@ -49,3 +49,5 @@ import "bootstrap/dist/css/bootstrap.min.css";
 8. Wrap each of the functional component with the `ErrorBoundary` component.
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

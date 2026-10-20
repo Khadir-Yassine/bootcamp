@@ -28,3 +28,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-4).

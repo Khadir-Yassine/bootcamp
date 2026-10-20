@@ -174,3 +174,7 @@ Example:
   </li>
 </ul>
 ```
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

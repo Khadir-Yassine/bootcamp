@@ -82,3 +82,7 @@ alert(`outside of the if block ${a}`);
 ```
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

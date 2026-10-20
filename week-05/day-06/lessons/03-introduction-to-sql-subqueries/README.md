@@ -149,3 +149,7 @@ Write a SQL query to select the name of each customer whose total spending on or
 ### **Conclusion**
 
 SQL subqueries are a versatile tool that can significantly extend the capability of SQL queries. By understanding and utilizing subqueries, you can perform more complex analyses and derive insights from your data more effectively. Practice using these examples as a starting point to master the art of crafting sophisticated SQL queries with subqueries.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

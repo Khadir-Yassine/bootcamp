@@ -19,3 +19,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 ![output](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%205/Day%202/Exercise%20XP%20Gold/FireShot%20Capture%20174%20-%20%20-%20.png)
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-02-challenges-13-more-node-js-challenges-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node script.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

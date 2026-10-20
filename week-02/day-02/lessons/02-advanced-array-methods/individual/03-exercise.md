@@ -17,3 +17,7 @@ console.log(newPriceArray);
 let alphabets = ["A", ..."BCD", "E"];
 console.log(alphabets);
 ```
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

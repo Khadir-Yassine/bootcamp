@@ -21,3 +21,7 @@ print(d) # should print 40
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

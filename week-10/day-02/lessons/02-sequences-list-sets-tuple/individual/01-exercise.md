@@ -19,3 +19,7 @@ list1 = [5, 10, 15, 200, 25, 50, 20]
 ```
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

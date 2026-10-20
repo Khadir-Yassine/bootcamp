@@ -10,3 +10,8 @@ Study queries nested inside other SQL queries and review Python file input/outpu
 - [Python File I/O](lessons/02-python-file-i-o/README.md) — 1 individual exercise documents
 - [Introduction to SQL Subqueries](lessons/03-introduction-to-sql-subqueries/README.md) — 1 individual exercise documents
 - [Introduction to Working with...](lessons/04-introduction-to-working-with/README.md)
+
+## Worked solutions
+
+- [02-python-file-i-o](lessons/02-python-file-i-o/solutions.md)
+- [03-introduction-to-sql-subqueries](lessons/03-introduction-to-sql-subqueries/solutions.md)

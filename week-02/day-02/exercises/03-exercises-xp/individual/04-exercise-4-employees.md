@@ -30,3 +30,7 @@ const welcomeStudents = ["Hello Bradley", "Hello Chloe", "Hello Jonathan", "Hell
 3. **Bonus** : Chain the `filter` method with a `map` method, to return an array containing only the lastName of the Full Stack Residents.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-4).

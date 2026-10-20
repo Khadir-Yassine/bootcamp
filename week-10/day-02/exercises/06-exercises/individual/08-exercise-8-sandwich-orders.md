@@ -25,3 +25,7 @@ I made your avocado sandwich
 I made your egg sandwich
 I made your chicken sandwich
 ```
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-8).

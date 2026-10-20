@@ -30,3 +30,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 ![image](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day4/Exercises%20XP%20Ninja/Exercise%202-%20Display%20JSON%20Data%20in%20React%20JS/output3.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/data.jsx).

@@ -16,3 +16,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
   - submit
 
 2. Send the data to another HTML file and display the sent data to a section tag, using the DOM.
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-1).

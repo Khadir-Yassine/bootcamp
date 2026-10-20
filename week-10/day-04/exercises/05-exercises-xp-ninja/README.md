@@ -28,3 +28,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 6. Create the following methods: `show_outgoing_messages(self)`, `show_incoming_messages(self)`, `show_messages_from(self)`
 
 7. Test your code !!!
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

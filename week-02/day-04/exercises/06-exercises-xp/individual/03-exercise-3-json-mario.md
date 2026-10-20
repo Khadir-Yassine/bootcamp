@@ -42,3 +42,7 @@ const marioGame = {
 3. Use your web inspector to add a breakpoint. Check the values of the JSON object in the debugger.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

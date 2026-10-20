@@ -73,3 +73,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
   
   1. Accepts an instance of `BankAccount` or `MinimumBalanceAccount`.
   2. The method will start a loop giving the user the option to deposit, withdraw or exit.
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

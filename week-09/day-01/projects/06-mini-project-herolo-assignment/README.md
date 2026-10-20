@@ -10,3 +10,7 @@ We expect to see 2 pages in this app. (weather page and favorites page).
 We recommend you to use a 3rd party UI library (material, prime, bootstrap, etc)
 
 **Download the assignment **[**here**](../../../../references/herolo-weather-app.md)
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

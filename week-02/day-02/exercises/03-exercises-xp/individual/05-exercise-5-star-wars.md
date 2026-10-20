@@ -12,3 +12,7 @@ Using this array `const epic = ['a', 'long', 'time', 'ago', 'in a', 'galaxy', 'f
 1. Use the `reduce()` method to combine all of these into a single string.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-5).

@@ -22,3 +22,15 @@ Explore different function forms and more advanced JavaScript behavior. Understa
 ## Challenges
 
 - [Daily challenge: Groceries](challenges/10-daily-challenge-groceries/README.md)
+
+## Worked solutions
+
+- [10-daily-challenge-groceries](challenges/10-daily-challenge-groceries/solutions.md)
+- [07-exercises-xp](exercises/07-exercises-xp/solutions.md)
+- [08-exercises-xp-gold](exercises/08-exercises-xp-gold/solutions.md)
+- [09-exercises-xp-ninja](exercises/09-exercises-xp-ninja/solutions.md)
+- [01-advanced-javascript](lessons/01-advanced-javascript/solutions.md)
+- [02-all-types-of-functions](lessons/02-all-types-of-functions/solutions.md)
+- [03-advanced-functions](lessons/03-advanced-functions/solutions.md)
+- [04-pass-by-value-and-pass-by-reference](lessons/04-pass-by-value-and-pass-by-reference/solutions.md)
+- [05-objects](lessons/05-objects/solutions.md)

@@ -345,3 +345,7 @@ const json =
     }
 }
 ```
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

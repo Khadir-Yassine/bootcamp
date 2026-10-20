@@ -1,0 +1,191 @@
+@tailwind utilities;
+:root {
+  font-family: Georgia, serif;
+  color: #192a2b;
+  background: #f4f0e6;
+  font-size: 17px;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+header {
+  padding: 32px 6vw;
+  border-bottom: 2px solid #192a2b;
+  background: #183d38;
+  color: #fff8e9;
+}
+header p {
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font:
+    12px Verdana,
+    sans-serif;
+}
+h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: normal;
+  margin: 0.25em 0;
+}
+main {
+  max-width: 1160px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+nav {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+button,
+a,
+input,
+select,
+textarea {
+  font: inherit;
+}
+button,
+.button {
+  background: #cce65b;
+  color: #153c35;
+  border: 1px solid #192a2b;
+  padding: 10px 17px;
+  border-radius: 3px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+button:hover,
+.button:hover {
+  background: #dfef97;
+}
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+a {
+  color: #286154;
+}
+section,
+.panel {
+  padding: 24px;
+  border: 1px solid #bac5b8;
+  background: #fffdf6;
+  margin: 20px 0;
+}
+h2 {
+  font-size: 1.7rem;
+  font-weight: normal;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+}
+.grid section {
+  margin: 0;
+}
+input,
+select,
+textarea {
+  padding: 10px;
+  border: 1px solid #8a9b8e;
+  background: white;
+  max-width: 100%;
+  margin: 5px;
+}
+label {
+  display: block;
+  margin: 12px 0;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  width: auto;
+}
+img {
+  max-width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  background: #e9eee2;
+  padding: 14px;
+}
+small,
+.muted {
+  color: #546657;
+}
+.error,
+[role="alert"] {
+  color: #a32926;
+}
+.modal-background {
+  position: fixed;
+  inset: 0;
+  background: #0008;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+.modal-body {
+  padding: 30px;
+  background: white;
+  max-width: 90vw;
+  border-radius: 5px;
+}
+.compass {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 2px solid #183d38;
+  margin: 40px auto;
+  display: grid;
+  place-items: center;
+}
+.ring {
+  position: absolute;
+  inset: 18px;
+  text-align: center;
+  pointer-events: none;
+}
+.compass .year {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.compass .month {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.para {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+:focus-visible {
+  outline: 3px solid #bf6b27;
+  outline-offset: 3px;
+}
+@media (max-width: 550px) {
+  main {
+    padding: 0 14px;
+  }
+  section {
+    padding: 16px;
+  }
+  header {
+    padding: 25px;
+  }
+  nav button {
+    flex: 1;
+  }
+}

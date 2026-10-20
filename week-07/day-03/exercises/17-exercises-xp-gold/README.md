@@ -112,3 +112,7 @@ A drop down list, or a select box, in React is also a bit different from HTML. I
   ![10](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day3/Exercises%20XP%20Gold/10.jpg)
 
 2. Add an `onChange` event handler, that will change the value of the selected car in the state.
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

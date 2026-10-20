@@ -59,3 +59,7 @@ Then access it using `process.env.MONGO_URI`.
 ### **🏁 Final Course Graduation Task**
 
 Look back at all the code we've written. Can you visualize moving your `taskSchema` into `/models/Task.js` and your `createTask` function into `/controllers/taskController.js`?
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

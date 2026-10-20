@@ -43,3 +43,7 @@ At the end of the day, answer:
 - How did I react?
 
 - What could I do differently next time?
+
+## Worked solutions
+
+[Read the worked example](solutions.md).

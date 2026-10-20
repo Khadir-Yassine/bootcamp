@@ -327,3 +327,7 @@ NPM serves as a vital tool in the Node.js ecosystem, enabling developers to easi
 6. Use the `moment` package to display the current date and time.
 
 7. Run `app.js` using Node.js and verify that the current date and time are displayed correctly.
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

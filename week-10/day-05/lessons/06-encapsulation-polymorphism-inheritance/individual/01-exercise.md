@@ -37,3 +37,7 @@ The code defines four classes with the following inheritance structure:
 - Class D inherits from both B and C (multiple inheritance)
 
 When we create a D instance and call `dothis()`, Python needs to determine which `dothis()` method to use since it's defined in both inheritance chains (through B from A, and directly from C).
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

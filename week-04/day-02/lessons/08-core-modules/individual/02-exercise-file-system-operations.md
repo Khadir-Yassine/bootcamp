@@ -20,3 +20,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 7. Run `node write-file.js` to write content to the file.
 
 8. Run `node read-file.js` to read and display the content from the file.
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

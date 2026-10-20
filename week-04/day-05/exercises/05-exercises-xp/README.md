@@ -69,3 +69,7 @@ db.orders.insertOne({
 ### **Quick Pro-Tip for Compass Users**
 
 > If you are using **MongoDB Compass**, you can click on the `ObjectId` in the `orders` collection, and it will actually give you an option to "View Document," taking you straight to Yasmine's profile in the other collection!
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

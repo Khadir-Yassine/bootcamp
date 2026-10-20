@@ -48,3 +48,5 @@ Using the previous exercise (Exercise 2 : Lifecycle)
   ![unmounted](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%209/Day1/Exercises%20XP%20Gold/unmounted.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/errors.jsx).

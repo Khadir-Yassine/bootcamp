@@ -176,3 +176,7 @@ console.log(d)
 //  speak: ƒ speak()
 //__proto__: Object
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

@@ -7,3 +7,7 @@ Review PostgreSQL concepts through the quiz material visible on the platform. On
 ## Quizzes
 
 - [Database Quiz](quizzes/01-database-quiz/README.md)
+
+## Worked solutions
+
+- [01-database-quiz](quizzes/01-database-quiz/solutions.md)

@@ -28,7 +28,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
 1. Create a function that takes a string as an argument.
 
 2. Have the function return:
-  
+
   1. The string but all letters in even indexes should be capitalized.
   2. The string but all letters in odd indexes should be capitalized.
 
@@ -128,3 +128,6 @@ Don’t forget to push your code to Github
 One Last Thing: **Good luck!**
 
 ---
+
+
+[Worked solutions](solutions.md)

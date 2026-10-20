@@ -26,3 +26,12 @@ Connect multiple components through event handlers and forms. Learn the purpose 
 ## Projects
 
 - [Mini Project : Error boundary](projects/10-mini-project-error-boundary/README.md)
+
+## Working solutions
+
+- [Exercises XP NINJA](exercises/07-exercises-xp-ninja/solutions.md)
+- [Daily Challenge : Form Container](challenges/08-daily-challenge-form-container/solutions.md)
+- [Exercises XP](exercises/09-exercises-xp/solutions.md)
+- [Mini Project : Error boundary](projects/10-mini-project-error-boundary/solutions.md)
+- [Exercise XP GOLD](exercises/11-exercise-xp-gold/solutions.md)
+- [Error Boundary](lessons/04-error-boundary/solutions.md)

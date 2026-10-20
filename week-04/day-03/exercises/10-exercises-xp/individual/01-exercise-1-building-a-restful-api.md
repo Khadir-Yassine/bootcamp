@@ -39,3 +39,5 @@ Users should be able to create, read, update, and delete blog posts using differ
 14. Start the Express app and listen on a specified port (e.g., 3000).
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

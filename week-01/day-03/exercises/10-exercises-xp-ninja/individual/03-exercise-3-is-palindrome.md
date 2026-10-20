@@ -13,3 +13,6 @@ Shared data, context and explanations: [complete lesson](../README.md).
 ![palindrome](https://github.com/devtlv/studentsGitHub/blob/master/Images%20cours%20%C3%A0%20h%C3%A9berger%20-%2006.03.2024/Week%206%20-%20Javascript%20&%20DOM/W6D1/javascript-function-image-exercise-2.png?raw=true)
 
 ---
+
+
+[Worked solutions](../solutions.md)

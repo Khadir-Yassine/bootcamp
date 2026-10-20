@@ -24,3 +24,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Run `shop.js` and verify that the correct product details are displayed.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

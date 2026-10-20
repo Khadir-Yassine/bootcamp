@@ -13,3 +13,7 @@ For example, `get_full_name(first_name="john", middle_name="hooker", last_name="
 But `get_full_name(first_name="bruce", last_name="lee")` will return “Bruce Lee”.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-2).

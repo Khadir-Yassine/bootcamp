@@ -14,3 +14,7 @@ Ask a user for their `name`, if their name is in the names list print out the in
 Example: if input is `Cortana` we should be printing the index 1
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-4).

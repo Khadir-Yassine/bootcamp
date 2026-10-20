@@ -59,3 +59,7 @@ But `get_full_name(first_name="bruce", last_name="lee")` will return “Bruce Le
 - Write a function that converts English text to Morse code and another one that does the opposite.
 
 - **Hint:** Check the internet for a translation table, every letter is separated with a space and every word is separated with a slash /.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

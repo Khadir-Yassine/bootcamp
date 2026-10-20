@@ -28,3 +28,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 8. Run `app.js` and verify that the file reading and writing operations are successful.
 
 ---
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

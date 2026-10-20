@@ -117,3 +117,7 @@ Don’t forget to push to Github
 | Duration (approx) |
 | --- |
 | > 1 hour |
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

@@ -11,3 +11,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 `const userEmail3 = ' cannotfillemailformcorrectly@gmail.com '`
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-2).

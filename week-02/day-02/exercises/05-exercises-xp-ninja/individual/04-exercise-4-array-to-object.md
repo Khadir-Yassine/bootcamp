@@ -14,3 +14,7 @@ Using this array `const letters = ['x', 'y', 'z', 'z'];`
 2. Use the `reduce()` method to get this output `{ x: 1, y: 1, z: 2 };`
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-4).

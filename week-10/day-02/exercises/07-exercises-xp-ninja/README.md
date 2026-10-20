@@ -82,3 +82,7 @@ print("b:", b)
 **Bonus:** How many non-whitespace characters it contains.
 **Bonus:** The average amount of words per sentence in the paragraph.
 **Bonus:** the amount of non-unique words in the paragraph.
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

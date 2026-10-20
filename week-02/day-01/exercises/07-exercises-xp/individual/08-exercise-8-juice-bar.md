@@ -28,3 +28,7 @@ You will use nested functions, to open a new juice bar.
 4. The client wants 6 ingredients in his juice, therefore, invoke the `addIngredients` function TWICE. Then invoke once the `displayJuice` function. Finally, invoke the `makeJuice` function in the global scope.
 
 ---
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-8).

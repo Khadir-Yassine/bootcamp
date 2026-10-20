@@ -1,0 +1,5 @@
+function duration(ms){const seconds=Math.max(0,Math.floor(ms/1000));return `${Math.floor(seconds/86400)} days and ${String(Math.floor(seconds/3600)%24).padStart(2,'0')}:${String(Math.floor(seconds/60)%60).padStart(2,'0')}:${String(seconds%60).padStart(2,'0')} hours`;}
+function untilJanuary(now=new Date()){return duration(new Date(now.getFullYear()+1,0,1)-now);}
+function minutesLived(birthdate,now=new Date()){const birth=new Date(birthdate);if(Number.isNaN(+birth)||birth>now)throw new Error('Invalid or future birth date');return Math.floor((now-birth)/60000);}
+function nextHoliday(now=new Date()){const holidays=[{name:'New Year',date:new Date(now.getFullYear(),0,1)},{name:'Labour Day',date:new Date(now.getFullYear(),4,1)},{name:'New Year',date:new Date(now.getFullYear()+1,0,1)}];const next=holidays.filter(h=>h.date>now).sort((a,b)=>a.date-b.date)[0];return `${now.toISOString()}: ${next.name} is in ${duration(next.date-now)}`;}
+module.exports={duration,untilJanuary,minutesLived,nextHoliday};

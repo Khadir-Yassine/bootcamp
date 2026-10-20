@@ -60,3 +60,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 *Tip* : Remember to use the `componentDidCatch()` method
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/errors.jsx).

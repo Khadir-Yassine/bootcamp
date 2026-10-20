@@ -15,3 +15,11 @@ Develop stronger collection and object-processing skills, explore functions and 
 | [5](day-05/README.md) | Mini-Project day | 3 | [Summary](day-05/summary.md) |
 | [6](day-06/README.md) | Remote Learning | 0 | [Summary](day-06/summary.md) |
 | [7](day-07/README.md) | Remote Learning | 0 | [Summary](day-07/summary.md) |
+
+## Runnable solutions
+
+[Browse all worked solutions and run instructions](SOLUTIONS.md).
+
+## Worked solutions
+
+[Read the worked example](solutions.md).

@@ -14,3 +14,7 @@ If X=3, the output when calling our function should be `3702 (3 + 33 + 333 + 333
 **Hint:** Treating our number as an int or a str at different points in our code may be helpful.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-3).

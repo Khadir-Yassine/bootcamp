@@ -261,3 +261,7 @@ class PrintList():
 print_list_instance = PrintList(["a", "b", "c"])
 print(print_list_instance.__repr__())
 ```
+
+## Worked solutions
+
+[English explanations and runnable Python implementation](solutions.md).

@@ -14,3 +14,5 @@ In the table actors, write the following commands:
 - Rename the `age` column by `birthdate`
 
 - Delete one actor and return it
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.

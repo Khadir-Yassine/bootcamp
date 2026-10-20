@@ -14,3 +14,6 @@ console.log(abbrevName("Robin Singh")); --> "Robin S."
 ```
 
 ---
+
+
+[Worked solutions](../solutions.md)

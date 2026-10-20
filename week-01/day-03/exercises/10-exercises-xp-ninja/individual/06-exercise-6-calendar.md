@@ -26,3 +26,6 @@ For instance, `createCalendar(2012, 9)` should generate the following calendar:
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
 ---
+
+
+[Worked solutions](../solutions.md)

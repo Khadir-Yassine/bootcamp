@@ -8,3 +8,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
 `const words = ["hello","hey","hola"];`
 
 Check if **all** the elements of the array start with the letter 'h'
+
+## Worked solution
+
+[Read the explanation and runnable code](../solutions.md#exercise-3).

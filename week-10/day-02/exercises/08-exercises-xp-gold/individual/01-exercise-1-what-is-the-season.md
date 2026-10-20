@@ -15,3 +15,7 @@ Shared data, context and explanations: [complete lesson](../README.md).
   - `Winter` runs from December (12) to February (2)
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

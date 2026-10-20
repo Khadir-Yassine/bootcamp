@@ -22,3 +22,6 @@ In this exercise we will be creating a function which takes an array of grades a
 4. If the average is below 65 let the user know they failed and must repeat the course.
 **Bonus** Try and split parts 1,2 and 3,4 of this exercise to two separate functions.
 **Hint** One function must call the other.
+
+
+[Worked solutions and explanation](../solutions.md) · [Runnable code](../solutions.js)

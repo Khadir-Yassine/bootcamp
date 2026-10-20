@@ -72,3 +72,7 @@ const newArray = arrayNum.map((num, i) => {
 3. Turn the greeting array into a string: ‘Hello young grasshopper! you are learning fast!’.
 
 4. Turn the trapped number 3 `const trapped = [[[[[[[[[[[[[[[[[[[[[[[[[[3]]]]]]]]]]]]]]]]]]]]]]]]]]` into: `[3]`
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

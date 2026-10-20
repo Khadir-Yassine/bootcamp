@@ -37,3 +37,5 @@ year: 2020
   ![ninja9](https://raw.githubusercontent.com/devtlv/studentsGitHub/master/JS/Week%208/Day2/Exercises%20XP%20Ninja/ninja9.png)
 
 ---
+
+[Working solution](../solutions.md) · [Source code](../../../../solutions/src/state.jsx).

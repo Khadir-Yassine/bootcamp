@@ -45,3 +45,7 @@ There is a zombie plague approaching! The DVD rental company is offering to lend
 **Hint : use the CHECK constraint**
 
 7. For both the ‘general’ and the ‘safe’ lists above, also calculate the time in hours and days (not just minutes).
+
+## Worked answer
+
+[Reference solution](solutions.md) — source code, explanation, and run instructions.

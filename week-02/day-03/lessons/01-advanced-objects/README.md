@@ -306,3 +306,7 @@ console.log("myNewCar.details.plateNumber :", myNewCar.details.plateNumber)
 console.log("myCar.details.plateNumber :", myCar.details.plateNumber)
 // myCar.details.plateNumber : 345 : red -- CHANGED
 ```
+
+## Worked solutions
+
+[English explanations and runnable implementation](solutions.md).

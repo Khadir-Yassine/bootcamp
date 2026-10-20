@@ -9,3 +9,7 @@ Course source: [Geeks Institute](https://www.geeks.institute/).
   - Draw a BLUE box around reusable child components (The Video Thumbnail card, the Search Bar, the Subscribe button).
 
 3. **Takeaway:** Notice how the `VideoThumbnail` component is just copy-pasted 20 times with different "Props" (different image, different title).
+
+## Working solution
+
+[Working solution](solutions.md) — runnable code, explanation, and verification steps.

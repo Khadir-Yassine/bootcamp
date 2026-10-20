@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-week-05-day-01-challenges-07-daily-challenge-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js \"Study schemas\"",
+    "test": "node --test --test-isolation=none schema.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2"
+  }
+}

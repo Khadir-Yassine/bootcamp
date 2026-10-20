@@ -23,3 +23,7 @@ class Cat:
 3. Print the following string: “The oldest cat is `<cat_name>`, and is `<cat_age>` years old.”. Use the function previously created.
 
 ---
+
+## Worked solution
+
+[English explanation and runnable source](../solutions.md#exercise-1).

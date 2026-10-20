@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-week-04-day-02-lessons-08-core-modules-solution",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node write-file.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

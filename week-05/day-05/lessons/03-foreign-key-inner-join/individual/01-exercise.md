@@ -12,3 +12,5 @@ Shared data, context and explanations: [complete lesson](../README.md).
 - Insert some record to the producers table
 
 - Display movies and their producers using an INNER JOIN
+
+[Worked reference answer](../solutions.md) — includes this task in its original exercise order.
