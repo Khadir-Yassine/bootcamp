@@ -34,3 +34,6 @@ Use React Router, keys and localStorage alongside data-driven interfaces and for
 - [Mini Project : Users and Posts](projects/08-mini-project-users-and-posts/solutions.md)
 - [Daily challenge #1 : Data and Server](challenges/09-daily-challenge-1-data-and-server/solutions.md)
 - [Daily challenge #2: Form](challenges/10-daily-challenge-2-form/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

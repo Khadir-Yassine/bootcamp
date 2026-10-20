@@ -15,3 +15,6 @@ Study queries nested inside other SQL queries and review Python file input/outpu
 
 - [02-python-file-i-o](lessons/02-python-file-i-o/solutions.md)
 - [03-introduction-to-sql-subqueries](lessons/03-introduction-to-sql-subqueries/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

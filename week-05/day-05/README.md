@@ -30,3 +30,6 @@ Use aggregate functions, HAVING, UNION, foreign keys and joins to answer questio
 - [01-aggregate-functions](lessons/01-aggregate-functions/solutions.md)
 - [03-foreign-key-inner-join](lessons/03-foreign-key-inner-join/solutions.md)
 - [04-postgresql-joins](lessons/04-postgresql-joins/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

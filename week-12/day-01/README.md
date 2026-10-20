@@ -7,3 +7,6 @@ Review the tools and concepts highlighted in the final part of the course. Use t
 ## Lessons
 
 - [The most important tools and concepts ?](lessons/01-the-most-important-tools-and-concepts/README.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -36,3 +36,6 @@ Create HTTP servers and Express routes, accept route parameters and POST request
 - [05-introduction-to-express](lessons/05-introduction-to-express/solutions.md)
 - [06-route-parameters](lessons/06-route-parameters/solutions.md)
 - [07-crud-api](lessons/07-crud-api/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

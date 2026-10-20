@@ -15,3 +15,6 @@ Combine DOM manipulation, events and JavaScript logic in the Coloring Game and D
 
 
 [Runnable solutions for this week](../SOLUTIONS.md)
+
+
+[Week solution index](../SOLUTIONS.md)

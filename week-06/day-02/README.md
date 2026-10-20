@@ -11,3 +11,6 @@ Connect Express request handling to persistent database operations. Follow the o
 ## Worked solutions
 
 - [01-mini-project](projects/01-mini-project/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

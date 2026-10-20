@@ -18,3 +18,6 @@ Study how messages are interpreted, including non-verbal signals and communicati
 ## Worked solutions
 
 - [02-lesson-2-2-non-verbal-communication](lessons/02-lesson-2-2-non-verbal-communication/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

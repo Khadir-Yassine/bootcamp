@@ -29,3 +29,6 @@ Work with object methods, destructuring, copying, merging, classes and dates. Di
 - [07-exercises-xp-ninja](exercises/07-exercises-xp-ninja/solutions.md)
 - [01-advanced-objects](lessons/01-advanced-objects/solutions.md)
 - [03-object-and-classes](lessons/03-object-and-classes/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

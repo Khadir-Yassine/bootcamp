@@ -30,3 +30,6 @@ Understand variables, primitive values, comparisons, conditionals, loops, arrays
 
 
 [Runnable solutions for this week](../SOLUTIONS.md)
+
+
+[Week solution index](../SOLUTIONS.md)

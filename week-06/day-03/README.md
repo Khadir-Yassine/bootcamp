@@ -11,3 +11,6 @@ Review PostgreSQL concepts through the quiz material visible on the platform. On
 ## Worked solutions
 
 - [01-database-quiz](quizzes/01-database-quiz/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -30,3 +30,6 @@ Use Fetch and async/await to structure network operations and handle failures. C
 - [06-exercises-xp-gold](exercises/06-exercises-xp-gold/solutions.md)
 - [07-exercises-xp-ninja](exercises/07-exercises-xp-ninja/solutions.md)
 - [02-fetch-api](lessons/02-fetch-api/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -18,3 +18,6 @@ Use external APIs in the Star Wars, Pokedex and Currency Converter applications.
 - [03-daily-challenge-currency-converter](challenges/03-daily-challenge-currency-converter/solutions.md)
 - [01-star-wars-web-app-using-ajax-api](lessons/01-star-wars-web-app-using-ajax-api/solutions.md)
 - [02-pokedex-app](lessons/02-pokedex-app/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

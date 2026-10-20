@@ -12,6 +12,12 @@ The original archive contains 12 weeks, 79 scheduled days, 343 course pages, 326
 
 The owner requested stopping additional verification to conserve usage. No further comprehensive verification is claimed after that request. Source-specific reports describe the checks that actually completed.
 
-## External requirements
+## Navigation and coverage review — 20 October 2026
+
+The archived assignment folders were mapped to their solution guides: 142 assignment pages, of which 139 have published briefs and three explicitly lack requirements. All 101 individual embedded lesson-exercise documents have a parent solution guide. The repository now contains 221 activity guides, including visible quiz reviews, illustrative reflections and unavailable-brief notes. See [the detailed coverage table](COVERAGE.md).
+
+After the navigation update, the local Markdown link check reported zero missing targets. A focused Node assertion confirmed eight planets, the documented marker count for each planet, and 456 total moon markers in the dated dataset. The changed solar-system browser rendering was not rerun in this review. No full application test suites or production builds were repeated.
+
+## External service requirements
 
 API projects can require user-provided keys and network access. MongoDB persistence and transactions need a running server; no live MongoDB integration run is claimed. SQL executed against a synthetic fixture does not reproduce the official DVD dataset's exact results. Personal reflection samples and unavailable quiz questions are explicitly labeled.

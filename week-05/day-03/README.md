@@ -23,3 +23,6 @@ Organize a realistic project around user and product models, authentication-read
 
 - [06-final-challenge-common-mistakes](challenges/06-final-challenge-common-mistakes/solutions.md)
 - [05-final-project-capstone](projects/05-final-project-capstone/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

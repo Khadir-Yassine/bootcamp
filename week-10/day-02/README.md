@@ -35,3 +35,6 @@ Start Python with variables, sequences, lists, sets, tuples, conditionals and lo
 - [Conditionals](lessons/03-conditionals/solutions.md)
 - [Loops](lessons/04-loops/solutions.md)
 - [Get started with Python](lessons/05-get-started-with-python/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

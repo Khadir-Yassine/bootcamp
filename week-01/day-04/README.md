@@ -24,3 +24,6 @@ Handle browser events, validate form input, and schedule work with setTimeout an
 
 
 [Runnable solutions for this week](../SOLUTIONS.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -17,3 +17,6 @@ Progress from Fetch and async/await to server-side JavaScript, NPM, HTTP APIs an
 | [7](day-07/README.md) | Mini Projects | 1 | [Summary](day-07/summary.md) |
 
 [Worked solutions](SOLUTIONS.md) — runnable code, SQL, and English explanations.
+
+
+[Solution index](SOLUTIONS.md)

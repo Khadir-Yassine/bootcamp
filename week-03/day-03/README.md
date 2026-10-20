@@ -21,3 +21,6 @@ Develop empathy, social awareness, trust and constructive conflict management. C
 
 - [02-lesson-3-2-managing-relationships](lessons/02-lesson-3-2-managing-relationships/solutions.md)
 - [04-lesson-3-4-building-trust-in-professional-relationships](lessons/04-lesson-3-4-building-trust-in-professional-relationships/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

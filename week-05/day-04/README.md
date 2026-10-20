@@ -34,3 +34,6 @@ Introduce relational database concepts and PostgreSQL through pgAdmin and the co
 - [05-postgresql-fundamentals](lessons/05-postgresql-fundamentals/solutions.md)
 - [06-using-postgresql-in-the-command-line](lessons/06-using-postgresql-in-the-command-line/solutions.md)
 - [07-update-delete-alter](lessons/07-update-delete-alter/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

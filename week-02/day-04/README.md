@@ -33,3 +33,6 @@ Connect form behavior to HTTP GET and POST, serialize data with JSON, and handle
 - [06-exercises-xp](exercises/06-exercises-xp/solutions.md)
 - [08-exercise-xp-gold](exercises/08-exercise-xp-gold/solutions.md)
 - [07-mini-project-random-quote-generator](projects/07-mini-project-random-quote-generator/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

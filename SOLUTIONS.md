@@ -27,3 +27,9 @@ Choose a week to find the original instructions, English explanation, implementa
 API keys belong in your local configuration; use the supplied placeholders or example environment files. MongoDB and PostgreSQL examples require their stated database setup. Synthetic SQL fixtures and mocked API tests are labeled; they do not certify a live external service.
 
 Original briefs, daily summaries and weekly reviews remain in place. Empty scheduled days, unpublished project requirements and quiz questions missing from the archive remain identified in [Content Status](CONTENT_STATUS.md). Completed checks and their limits are recorded in [Validation](VALIDATION.md).
+
+
+[Detailed setup guide](GETTING_STARTED.md)
+
+
+[Assignment-by-assignment coverage](COVERAGE.md)

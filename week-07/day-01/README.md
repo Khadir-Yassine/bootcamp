@@ -28,3 +28,6 @@ Create a React application and work with JSX, components, props and list renderi
 - [Exercise XP Gold](exercises/08-exercise-xp-gold/solutions.md)
 - [Exercises XP](exercises/09-exercises-xp/solutions.md)
 - [Daily challenge: Landing Page](challenges/10-daily-challenge-landing-page/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

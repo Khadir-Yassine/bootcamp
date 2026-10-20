@@ -34,3 +34,6 @@ Explore different function forms and more advanced JavaScript behavior. Understa
 - [03-advanced-functions](lessons/03-advanced-functions/solutions.md)
 - [04-pass-by-value-and-pass-by-reference](lessons/04-pass-by-value-and-pass-by-reference/solutions.md)
 - [05-objects](lessons/05-objects/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

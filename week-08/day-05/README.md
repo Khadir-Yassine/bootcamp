@@ -7,3 +7,6 @@ This day is present in the course schedule, but no instructional content or proj
 ## Lessons
 
 - [Celebrate Eid al-Fitr](lessons/01-celebrate-eid-al-fitr/README.md) — no published instructions
+
+
+[Week solution index](../SOLUTIONS.md)

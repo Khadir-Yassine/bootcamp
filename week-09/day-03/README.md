@@ -21,3 +21,6 @@ Build components with clear props and focused responsibilities. Practice reusabl
 - [Create a Reusable Button Component](exercises/04-create-a-reusable-button-component/solutions.md)
 - [Pass Data Using Props](exercises/05-pass-data-using-props/solutions.md)
 - [Build a Small UI Using Only Reusable Components](exercises/06-build-a-small-ui-using-only-reusable-components/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

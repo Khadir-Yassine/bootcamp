@@ -39,3 +39,6 @@ Study inheritance, encapsulation, polymorphism, class/static methods, properties
 - [Encapsulation,Polymorphism,Inheritance](lessons/06-encapsulation-polymorphism-inheritance/solutions.md)
 - [Writing our own Modules](lessons/07-writing-our-own-modules/solutions.md)
 - [Exceptions](lessons/09-exceptions/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

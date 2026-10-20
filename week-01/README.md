@@ -18,3 +18,6 @@ Build a foundation in JavaScript values, control flow and functions, then connec
 
 
 [Runnable solutions](SOLUTIONS.md)
+
+
+[Solution index](SOLUTIONS.md)

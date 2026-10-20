@@ -37,3 +37,6 @@ Run JavaScript outside the browser, organize modules, and manage packages with N
 - [06-module-system](lessons/06-module-system/solutions.md)
 - [07-node-package-manager](lessons/07-node-package-manager/solutions.md)
 - [08-core-modules](lessons/08-core-modules/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -30,3 +30,6 @@ Work with dictionaries, functions, args, kwargs, lambda expressions and map/filt
 - [Loops and Dictionaries](lessons/04-loops-and-dictionaries/solutions.md)
 - [Functions](lessons/05-functions/solutions.md)
 - [Dictionaries](lessons/10-dictionaries/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

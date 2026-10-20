@@ -7,3 +7,9 @@ This day is present in the course schedule, but no instructional content or proj
 ## Projects
 
 - [Work On Project](projects/01-work-on-project/README.md) — no published instructions
+
+
+[Week solution index](../SOLUTIONS.md)
+
+
+[Project implementation status](projects/01-work-on-project/solutions.md)

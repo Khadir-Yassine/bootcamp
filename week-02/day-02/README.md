@@ -29,3 +29,6 @@ Transform, filter, search and aggregate collections with array methods and destr
 - [05-exercises-xp-ninja](exercises/05-exercises-xp-ninja/solutions.md)
 - [01-array-methods](lessons/01-array-methods/solutions.md)
 - [02-advanced-array-methods](lessons/02-advanced-array-methods/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -60,3 +60,6 @@ The archive contains 343 course pages across 12 weeks and 79 scheduled days. Pag
 - Worked exercise solutions and study explanations have been added. No new platform quiz attempts were submitted.
 - Empty source pages and unseen quiz questions remain explicitly unavailable; no assignment requirements are invented for them.
 - Validation completed before the owner requested stopping additional checks is recorded in [Validation](VALIDATION.md).
+
+
+[Implementation coverage and known limits](COVERAGE.md)

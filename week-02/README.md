@@ -23,3 +23,6 @@ Develop stronger collection and object-processing skills, explore functions and 
 ## Worked solutions
 
 [Read the worked example](solutions.md).
+
+
+[Solution index](SOLUTIONS.md)

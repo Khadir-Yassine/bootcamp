@@ -23,3 +23,6 @@ Introduce classes, objects and instance methods. Use examples and exercises to g
 - [Exercises XP](exercises/06-exercises-xp/solutions.md)
 - [Introduction to OOP](lessons/01-introduction-to-oop/solutions.md)
 - [Instance methods](lessons/03-instance-methods/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

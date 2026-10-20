@@ -35,3 +35,6 @@ Study useRef, useContext and useReducer for references, shared values and more s
 - [useRef](lessons/01-useref/solutions.md)
 - [useContext](lessons/03-usecontext/solutions.md)
 - [useReducer](lessons/04-usereducer/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

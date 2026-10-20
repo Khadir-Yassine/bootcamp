@@ -35,3 +35,6 @@ Connect multiple components through event handlers and forms. Learn the purpose 
 - [Mini Project : Error boundary](projects/10-mini-project-error-boundary/solutions.md)
 - [Exercise XP GOLD](exercises/11-exercise-xp-gold/solutions.md)
 - [Error Boundary](lessons/04-error-boundary/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

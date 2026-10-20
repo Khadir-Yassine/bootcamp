@@ -27,3 +27,6 @@ Create functions with parameters and return values, then connect JavaScript logi
 
 
 [Runnable solutions for this week](../SOLUTIONS.md)
+
+
+[Week solution index](../SOLUTIONS.md)

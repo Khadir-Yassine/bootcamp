@@ -13,3 +13,6 @@ Review the highlighted course tools and concepts, then apply Python in Rock Pape
 
 
 [Runnable solutions](SOLUTIONS.md)
+
+
+[Solution index](SOLUTIONS.md)

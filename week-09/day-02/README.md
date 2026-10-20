@@ -21,3 +21,6 @@ Break an application into components and identify parent-child relationships. Us
 - [Identify Components in a Sample UI](exercises/04-identify-components-in-a-sample-ui/solutions.md)
 - [Split a Page into Reusable Components](exercises/05-split-a-page-into-reusable-components/solutions.md)
 - [Design Your Own Component Structure for a Simple App](exercises/06-design-your-own-component-structure-for-a-simple-app/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -116,3 +116,6 @@
 
 - [Day 1: Mini Project](week-12/day-01/README.md)
 - [Day 2: Mini Project](week-12/day-02/README.md)
+
+
+[Implementation coverage and run guide](COVERAGE.md)

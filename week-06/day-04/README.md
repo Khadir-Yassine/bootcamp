@@ -11,3 +11,6 @@ This day is present in the course schedule, but no instructional content or proj
 ## Worked solutions
 
 - [01-work-on-project](projects/01-work-on-project/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

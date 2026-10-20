@@ -1,91 +1,88 @@
 # Full-Stack Development Bootcamp
 
-A practical learning reference from the **Geeks Institute bootcamp in Casablanca**, organized from programming fundamentals to backend APIs, databases, React applications and Python OOP.
+**Runnable solutions, English explanations, and a week-by-week learning archive.**
 
-Explore runnable exercise solutions and mini projects alongside the original course instructions, with English explanations and daily and weekly reviews.
+JavaScript · React · Node.js · Express · MongoDB · PostgreSQL · Python
 
-**12 weeks · 79 scheduled days · 343 course pages · 326 individual exercise documents**
+This repository follows the Geeks Institute bootcamp curriculum in Casablanca. Original exercise briefs sit alongside worked implementations, daily learning notes, and weekly reviews.
 
-[Run the solutions](SOLUTIONS.md) · [Explore the curriculum](CONTENTS.md) · [Reference library](references/README.md) · [Content availability](CONTENT_STATUS.md) · [Sources and attribution](SOURCES.md)
+**12 weeks · 79 scheduled days · 343 archived course pages · 142 assignment pages**
 
-## Start Here
+[Browse solutions](SOLUTIONS.md) · [Getting started](GETTING_STARTED.md) · [Coverage and missing content](COVERAGE.md) · [Full curriculum](CONTENTS.md)
 
-| Track | Starting point | Main topics |
-| --- | --- | --- |
-| JavaScript | [JavaScript fundamentals](week-01/day-02/README.md) | Language fundamentals, DOM, events and asynchronous code |
-| Backend | [Node.js introduction](week-04/day-02/README.md) | Modules, NPM, Express and HTTP APIs |
-| Databases | [MongoDB fundamentals](week-04/day-04/README.md) | MongoDB, Mongoose, PostgreSQL and relational modeling |
-| React | [React fundamentals](week-07/day-01/README.md) | Components, props, state, hooks, forms and routing |
-| Python | [Python fundamentals](week-10/day-02/README.md) | Data structures, functions, classes and inheritance |
+## Where to start
 
-## Project Highlights
-
-Selected implemented projects and challenges:
-
-| Project | Practice focus |
+| I want to… | Open |
 | --- | --- |
-| [Coloring Game](week-01/day-05/projects/02-mini-project-coloring-game/solutions.md) | DOM manipulation, events and interactive page behavior |
-| [Robo-Friends Search](week-02/day-05/projects/01-mini-project-robo-friends-search/solutions.md) | Collection filtering, search input and dynamic rendering |
-| [Star Wars API App](week-03/day-05/lessons/01-star-wars-web-app-using-ajax-api/solutions.md) | Asynchronous requests and API-driven interfaces |
-| [Enhanced Task Manager](week-09/day-01/challenges/09-daily-challenge-enhanced-task-manager/solutions.md) | React hooks and application state |
-| [Rock Paper Scissors](week-12/day-02/projects/02-mini-project-rock-paper-scissors/solutions.md) | Python, game rules and program structure |
+| Find and run a solved exercise | [Solutions by week](SOLUTIONS.md) → choose a day → open `solutions.md` |
+| Learn how to install or start a project | [Getting started](GETTING_STARTED.md), then the activity's run instructions |
+| Read the original assignment | The activity's `README.md` |
+| Open one exercise from a larger set | The activity's `individual/` folder; its documents link to the shared solution |
+| Review what a day or week covers | `day-XX/summary.md` or `week-XX/week-summary.md` |
+| Understand what is available and what is missing | [Coverage](COVERAGE.md) and [source availability](CONTENT_STATUS.md) |
+| Inspect previously completed checks | [Validation record](VALIDATION.md) |
 
-Each solution explains how to run its implementation. Browser apps, Node/Express services, React workspaces, SQL scripts and Python programs use the runtime appropriate to their task. Some API and database projects need external services; requirements are stated beside the code.
+## Curriculum and solutions
 
-## Learning Path
+| Week | Topics | Implementations | Review |
+| --- | --- | --- | --- |
+| [01](week-01/README.md) | JavaScript fundamentals, DOM, events, forms | [Solutions](week-01/SOLUTIONS.md) | [Summary](week-01/week-summary.md) |
+| [02](week-02/README.md) | Advanced JavaScript, arrays, objects, classes | [Solutions](week-02/SOLUTIONS.md) | [Summary](week-02/week-summary.md) |
+| [03](week-03/README.md) | Async JavaScript, APIs, professional skills | [Solutions](week-03/SOLUTIONS.md) | [Summary](week-03/week-summary.md) |
+| [04](week-04/README.md) | Node.js, Express, MongoDB | [Solutions](week-04/SOLUTIONS.md) | [Summary](week-04/week-summary.md) |
+| [05](week-05/README.md) | Mongoose, PostgreSQL, SQL | [Solutions](week-05/SOLUTIONS.md) | [Summary](week-05/week-summary.md) |
+| [06](week-06/README.md) | Database relationships, restaurant REST API | [Solutions](week-06/SOLUTIONS.md) | [Summary](week-06/week-summary.md) |
+| [07](week-07/README.md) | React components, state, forms, routing | [Solutions](week-07/SOLUTIONS.md) | [Summary](week-07/week-summary.md) |
+| [08](week-08/README.md) | Scheduled Project X week | [Source status](week-08/SOLUTIONS.md) | [Summary](week-08/week-summary.md) |
+| [09](week-09/README.md) | React hooks, reducers, application projects | [Solutions](week-09/SOLUTIONS.md) | [Summary](week-09/week-summary.md) |
+| [10](week-10/README.md) | React projects, Python fundamentals and OOP | [Solutions](week-10/SOLUTIONS.md) | [Summary](week-10/week-summary.md) |
+| [11](week-11/README.md) | Scheduled project and exposition week | [Source status](week-11/SOLUTIONS.md) | [Summary](week-11/week-summary.md) |
+| [12](week-12/README.md) | Python Circle and console games | [Solutions](week-12/SOLUTIONS.md) | [Summary](week-12/week-summary.md) |
 
-| Week | Focus | Weekly review |
+## Try a project
+
+| Project | What it demonstrates | Run guide |
 | --- | --- | --- |
-| [01](week-01/README.md) | JavaScript and the DOM | [Summary](week-01/week-summary.md) |
-| [02](week-02/README.md) | Advanced JavaScript | [Summary](week-02/week-summary.md) |
-| [03](week-03/README.md) | Professional Skills and Asynchronous JavaScript | [Summary](week-03/week-summary.md) |
-| [04](week-04/README.md) | Node.js, Express and MongoDB | [Summary](week-04/week-summary.md) |
-| [05](week-05/README.md) | Mongoose and PostgreSQL | [Summary](week-05/week-summary.md) |
-| [06](week-06/README.md) | Database Relationships and Integration | [Summary](week-06/week-summary.md) |
-| [07](week-07/README.md) | React Foundations and Applications | [Summary](week-07/week-summary.md) |
-| [08](week-08/README.md) | Project X and Scheduled Activities | [Summary](week-08/week-summary.md) |
-| [09](week-09/README.md) | React Architecture and Advanced Hooks | [Summary](week-09/week-summary.md) |
-| [10](week-10/README.md) | React Projects and Python OOP | [Summary](week-10/week-summary.md) |
-| [11](week-11/README.md) | Project Work and Gitex Exposition | [Summary](week-11/week-summary.md) |
-| [12](week-12/README.md) | Final Review and Python Mini Projects | [Summary](week-12/week-summary.md) |
+| Coloring Studio | DOM creation, color selection, pointer drawing, erasing | [Browser app](week-01/day-05/projects/02-mini-project-coloring-game/solutions.md) |
+| Pocket Percussion | Keyboard/click events and local HTML audio | [Browser app](week-01/day-05/projects/03-mini-project-drumset/solutions.md) |
+| Robo-Friends Search | Collection filtering and dynamic rendering | [JavaScript project](week-02/day-05/projects/01-mini-project-robo-friends-search/solutions.md) |
+| Restaurant API | Express routes, controllers and PostgreSQL models | [Backend project](week-06/day-02/projects/01-mini-project/solutions.md) |
+| Enhanced Task Manager | React hooks and application state | [React project](week-09/day-01/challenges/09-daily-challenge-enhanced-task-manager/solutions.md) |
+| Rock, Paper, Scissors | Python classes, validated input and score tracking | [Console game](week-12/day-02/projects/02-mini-project-rock-paper-scissors/solutions.md) |
 
-## Repository Structure
+## How the files are organized
 
 ```text
 bootcamp/
-├── README.md
-├── CONTENTS.md
-├── CONTENT_STATUS.md
-├── SOURCES.md
-├── references/
-│   └── ... Markdown reference documents
-└── week-01/ ... week-12/
-    ├── README.md
-    ├── week-summary.md
-    └── day-01/ ...
-        ├── README.md
-        ├── summary.md
-        ├── lessons/
-        ├── exercises/
-        ├── challenges/
-        ├── projects/
-        └── quizzes/
+├── README.md                  # Repository overview
+├── SOLUTIONS.md               # Main implementation index
+├── GETTING_STARTED.md         # Runtime and setup guide
+├── COVERAGE.md                # Assignment coverage and source gaps
+├── CONTENTS.md                # Complete archived curriculum
+├── references/                # Attachment references and transcriptions
+└── week-XX/
+    ├── README.md              # Week navigation
+    ├── SOLUTIONS.md           # Week implementation index
+    ├── week-summary.md        # Weekly learning review
+    └── day-XX/
+        ├── README.md          # Day navigation
+        ├── summary.md         # Daily learning notes
+        └── exercises/         # Also: lessons/, challenges/, projects/, quizzes/
+            └── NN-activity/
+                ├── README.md       # Original brief
+                ├── solutions.md    # Explanation, source links and run command
+                ├── individual/     # Separate prompts for multi-part exercises
+                └── …               # Runnable source or solution/ subfolder
 ```
 
-Each course item has its own folder and `README.md`. Pages containing multiple exercises also include an `individual/` directory. Individual exercise documents link back to their complete page for shared data, prerequisites and explanations.
+Some exercises have `solution.js`, `solutions.js`, `solution.py`, SQL scripts or browser HTML directly beside their brief. Backend apps usually use `solution/`. React implementations share the workspaces at [`week-07/solutions`](week-07/solutions/README.md), [`week-09/solutions`](week-09/solutions/README.md) and [`week-10/day-01/solutions`](week-10/day-01/solutions/README.md); each assignment guide names its component and screen.
 
-## Using This Repository
+## Implementation status
 
-1. Open a week and select a day.
-2. Read the daily summary and lessons.
-3. Trace or run the examples, then attempt the exercises and challenges.
-4. Open the linked worked solution, run its code, and compare the explanation with your approach.
-5. Review the weekly summary and try the project extensions.
+Every archived exercise, challenge and project page has a linked solution or an explicit availability note. This includes embedded lesson exercises. Multi-part assignments can share one implementation bundle; a guide count is not an individual exercise count.
 
-Documentation is in English Markdown. Runnable implementations use JavaScript, HTML/CSS, JSX, SQL and Python, with package manifests where required. Each `solutions.md` links the original brief, source code and setup instructions. The reference library includes PDF text transcriptions and a database download guide.
+Some original pages contain no brief, some quizzes expose only their first question, and open-choice projects implement one permitted option. API apps can require your own key; database projects require their documented service. These cases are listed in [Coverage](COVERAGE.md). Personal reflection answers are labeled examples, and platform quizzes have not been submitted.
 
-The daily summaries highlight concepts and practice objectives; the weekly summaries connect related topics. The [content availability report](CONTENT_STATUS.md) identifies scheduled days without published material and quizzes with limited visible questions.
+## Sources
 
-## Course Context
-
-Based on the AI Full Stack Developer Bootcamp #9 at [Geeks Institute](https://www.geeks.institute/), Casablanca. Course material is attributed to its original authors in [Sources and Attribution](SOURCES.md). Solutions are worked study implementations. Personal reflection examples are labeled as samples; summaries and examples do not claim personal experiences or platform assessment completion.
+Course material originates from [Geeks Institute](https://www.geeks.institute/). Original references remain linked; implementations and English study explanations were added for this repository. See [Sources and attribution](SOURCES.md) and the [reference library](references/README.md).

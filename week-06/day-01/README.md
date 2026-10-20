@@ -30,3 +30,6 @@ Study table relationships, foreign-key referential actions, import/export and us
 - [06-exercises-xp](exercises/06-exercises-xp/solutions.md)
 - [07-exercises-xp-gold](exercises/07-exercises-xp-gold/solutions.md)
 - [08-exercise-xp-ninja](exercises/08-exercise-xp-ninja/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

@@ -24,3 +24,6 @@ Combine components into a complete mini application and review folder structure,
 - [Combine Components into One Application](exercises/04-combine-components-into-one-application/solutions.md)
 - [Refactor for Clarity and Reusability](exercises/05-refactor-for-clarity-and-reusability/solutions.md)
 - [Final Project: Build a Complete Mini App](projects/06-final-project-build-a-complete-mini-app/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)

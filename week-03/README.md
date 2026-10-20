@@ -23,3 +23,6 @@ Combine emotional intelligence and communication skills with asynchronous JavaSc
 ## Worked solutions
 
 [Read the worked example](solutions.md).
+
+
+[Solution index](SOLUTIONS.md)

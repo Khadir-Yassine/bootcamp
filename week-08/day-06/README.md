@@ -7,3 +7,6 @@ This day is present in the course schedule, but no instructional content or proj
 ## Content Availability
 
 No lesson or assignment pages were published for this day.
+
+
+[Week solution index](../SOLUTIONS.md)

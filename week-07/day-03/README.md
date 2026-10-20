@@ -41,3 +41,6 @@ Explore state updates, function and class components, lifecycle behavior, useSta
 - [React State](lessons/02-react-state/solutions.md)
 - [React Lifecycle](lessons/07-react-lifecycle/solutions.md)
 - [Changing the state of a component](lessons/08-changing-the-state-of-a-component/solutions.md)
+
+
+[Week solution index](../SOLUTIONS.md)
