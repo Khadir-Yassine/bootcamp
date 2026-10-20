@@ -1,10 +1,36 @@
-# Full Stack Developer Bootcamp
+# Full-Stack Development Bootcamp
 
-A structured English study archive covering JavaScript, backend development, databases, React and Python.
+A practical learning reference from the **Geeks Institute bootcamp in Casablanca**, organized from programming fundamentals to backend APIs, databases, React applications and Python OOP.
+
+Explore lesson notes, code examples, exercise briefs and mini-project instructions, with daily and weekly reviews to connect the concepts.
 
 **12 weeks · 79 scheduled days · 343 course pages · 326 individual exercise documents**
 
-[Browse all weeks](CONTENTS.md) · [Content status](CONTENT_STATUS.md) · [Reference documents](references/README.md) · [Sources](SOURCES.md)
+[Explore the curriculum](CONTENTS.md) · [Reference library](references/README.md) · [Content availability](CONTENT_STATUS.md) · [Sources and attribution](SOURCES.md)
+
+## Start Here
+
+| Track | Starting point | Main topics |
+| --- | --- | --- |
+| JavaScript | [JavaScript fundamentals](week-01/day-02/README.md) | Language fundamentals, DOM, events and asynchronous code |
+| Backend | [Node.js introduction](week-04/day-02/README.md) | Modules, NPM, Express and HTTP APIs |
+| Databases | [MongoDB fundamentals](week-04/day-04/README.md) | MongoDB, Mongoose, PostgreSQL and relational modeling |
+| React | [React fundamentals](week-07/day-01/README.md) | Components, props, state, hooks, forms and routing |
+| Python | [Python fundamentals](week-10/day-02/README.md) | Data structures, functions, classes and inheritance |
+
+## Project Highlights
+
+Selected project and challenge briefs from the course:
+
+| Project | Practice focus |
+| --- | --- |
+| [Coloring Game](week-01/day-05/projects/02-mini-project-coloring-game/README.md) | DOM manipulation, events and interactive page behavior |
+| [Robo-Friends Search](week-02/day-05/projects/01-mini-project-robo-friends-search/README.md) | Collection filtering, search input and dynamic rendering |
+| [Star Wars API App](week-03/day-05/lessons/01-star-wars-web-app-using-ajax-api/README.md) | Asynchronous requests and API-driven interfaces |
+| [Enhanced Task Manager](week-09/day-01/challenges/09-daily-challenge-enhanced-task-manager/README.md) | React hooks and application state |
+| [Rock Paper Scissors](week-12/day-02/projects/02-mini-project-rock-paper-scissors/README.md) | Python, game rules and program structure |
+
+These links lead to learning requirements and examples. Implementation instructions and shared data remain with each original course item.
 
 ## Learning Path
 
@@ -48,15 +74,17 @@ bootcamp/
 
 Each course item has its own folder and `README.md`. Pages containing multiple exercises also include an `individual/` directory. Individual exercise documents link back to their complete page for shared data, prerequisites and explanations.
 
-## How to Study
+## Using This Repository
 
 1. Open a week and select a day.
 2. Read the daily summary and lessons.
 3. Trace or run the examples, then attempt the exercises and challenges.
 4. Follow the project instructions and review the weekly summary.
 
-All repository files use Markdown. Code remains in fenced blocks, illustrations use original external links, and reference attachments have Markdown transcriptions or download guides. Some days have no published material, and some quiz questions require answering before further questions become visible; these limitations are documented in the content status report.
+All published files use Markdown. Code examples remain in fenced blocks, illustrations link to their original sources, and the reference library includes PDF text transcriptions and a database download guide.
+
+The daily summaries highlight concepts and practice objectives; the weekly summaries connect related topics. The [content availability report](CONTENT_STATUS.md) identifies scheduled days without published material and quizzes with limited visible questions.
 
 ## Course Context
 
-Based on the AI Full Stack Developer Bootcamp #9 at [Geeks Institute](https://www.geeks.institute/), Casablanca. The summaries describe the published learning material, rather than claiming personal completion. No additional exercise solutions have been introduced.
+Based on the AI Full Stack Developer Bootcamp #9 at [Geeks Institute](https://www.geeks.institute/), Casablanca. Course material is attributed to its original authors in [Sources and Attribution](SOURCES.md). This repository documents the learning material; the summaries do not imply personal completion of every exercise.
